@@ -1,0 +1,645 @@
+{
+  "source_root": "Miðflokkurinn - Ásýnd",
+  "copied_files": [
+    {
+      "file": "assets/fonts/Blacker-Pro-Display-Condensed-Italic.ttf",
+      "source": "Letur/Blacker-Pro-Display-Condensed-Italic.ttf",
+      "sha256": "27b7f6dcec79a68ce6f7653e589f2c7e7aa755b80eb595fea03414fdea3ce611"
+    },
+    {
+      "file": "assets/fonts/Blacker-Pro-Display-Condensed-Regular.otf",
+      "source": "Letur/Blacker-Pro-Display-Condensed-Regular.otf",
+      "sha256": "a0017441298023a1386872bc92a57a032e7875e28a90ebe7691e0ea884c96ea6"
+    },
+    {
+      "file": "assets/fonts/Roboto-Medium.ttf",
+      "source": "Letur/Roboto/Roboto-Medium.ttf",
+      "sha256": "e35252aa3dc2e84e9d7211586fee9aede2a426d3230c8b131881d985f16ff836"
+    },
+    {
+      "file": "assets/fonts/Roboto-Light.ttf",
+      "source": "Letur/Roboto/Roboto-Light.ttf",
+      "sha256": "db02096a91c20ab62d459001a1059bc8d78caa35d637dc91494c4440815a6ac1"
+    },
+    {
+      "file": "assets/fonts/Roboto-Regular.ttf",
+      "source": "Letur/Roboto/Roboto-Regular.ttf",
+      "sha256": "017c0be9aaa6d0359737e1fa762ad304c0e0107927faff5a6c1f415c7f5244ed"
+    },
+    {
+      "file": "assets/fonts/Roboto-MediumItalic.ttf",
+      "source": "Letur/Roboto/Roboto-MediumItalic.ttf",
+      "sha256": "552fa6bfc8f4ad480ba69feb9745f31d77fa88c12826a1bbd3c5eb0beefa22bb"
+    },
+    {
+      "file": "assets/fonts/Roboto-ThinItalic.ttf",
+      "source": "Letur/Roboto/Roboto-ThinItalic.ttf",
+      "sha256": "32296be48f3e03c62ddbca97b5b1096b602c259a160e4fbe1dc76ba76c034418"
+    },
+    {
+      "file": "assets/fonts/Roboto-BoldItalic.ttf",
+      "source": "Letur/Roboto/Roboto-BoldItalic.ttf",
+      "sha256": "e408e93bc15805661247698520f1ab944bbc2899fbd9ca71edc1b24dea6565f7"
+    },
+    {
+      "file": "assets/fonts/Roboto-LightItalic.ttf",
+      "source": "Letur/Roboto/Roboto-LightItalic.ttf",
+      "sha256": "d0347d3f1cf3ad62f4574fdb08c5db4f9979d83426aa5d13046eccf26aa88e9b"
+    },
+    {
+      "file": "assets/fonts/Roboto-Italic.ttf",
+      "source": "Letur/Roboto/Roboto-Italic.ttf",
+      "sha256": "2c0958e0c7e9b63f36f672d3cccba14ca0d7ce2e3d6945b38e4ef3de35b79691"
+    },
+    {
+      "file": "assets/fonts/LICENSE.txt",
+      "source": "Letur/Roboto/LICENSE.txt",
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+    },
+    {
+      "file": "assets/fonts/Roboto-BlackItalic.ttf",
+      "source": "Letur/Roboto/Roboto-BlackItalic.ttf",
+      "sha256": "328578810a5a24e2e64737b54f4d37fd3bec81c9d38d16ba07e3638a68488143"
+    },
+    {
+      "file": "assets/fonts/Roboto-Bold.ttf",
+      "source": "Letur/Roboto/Roboto-Bold.ttf",
+      "sha256": "c9cc991deb5d27f267830a19f2301eb164d9e61ec08669c1a1a291c5620ff40a"
+    },
+    {
+      "file": "assets/fonts/Roboto-Thin.ttf",
+      "source": "Letur/Roboto/Roboto-Thin.ttf",
+      "sha256": "dcac562815b575e6b821bae5fd245fea6590bb3b597fd5b96eae6acccb21d03c"
+    },
+    {
+      "file": "assets/fonts/Roboto-Black.ttf",
+      "source": "Letur/Roboto/Roboto-Black.ttf",
+      "sha256": "354fb9e77252254f3b3b6224cf9a131ac8ed798e13015176125a2c697a19f801"
+    },
+    {
+      "file": "assets/logos/horse-blue-white-circle.png",
+      "source": "Merki/PNG/Miðflokkurinn-hestur-hviturhringur.png",
+      "sha256": "bb17bd79ed35469463b6f529b17257d3b486cb665d4fd6bf120d61a9446f1bf7"
+    },
+    {
+      "file": "assets/logos/horse-white-blue-circle.png",
+      "source": "Merki/PNG/Miðflokkurinn-hestur-blárhringur.png",
+      "sha256": "e264aaef0f6b0565d22d811510ac3bdb2b17080d5053d77c460a333d8d33483f"
+    },
+    {
+      "file": "assets/logos/logo-horizontal-white.png",
+      "source": "Merki/PNG/Miðflokkurinn-Logo-hvitt-2.png",
+      "sha256": "914f68319f7d4d6553493eee68cd89513f878ee26bb2e2e29724893bb2009276"
+    },
+    {
+      "file": "assets/logos/logo-stacked-white.png",
+      "source": "Merki/PNG/Miðflokkurinn-Logo-hvitt-1.png",
+      "sha256": "6fc19e7a983069244171f252825c4cd2a14bd2759928c7d3c4338cb6002e7944"
+    },
+    {
+      "file": "assets/logos/horse-white.png",
+      "source": "Merki/PNG/Miðflokkurinn-hestur-hvitur.png",
+      "sha256": "63dc73a50588b55b1ff4f58dc9f9c6e4babe0c35576c2706b951f0b61c49d031"
+    },
+    {
+      "file": "assets/logos/logo-horizontal-blue.png",
+      "source": "Merki/PNG/Miðflokkurinn-Logo-blátt-2.png",
+      "sha256": "1dd63a3d012cde350fa9eafb2ee0aea67a5d29e6d3737c22b9f04c0d1f080a97"
+    },
+    {
+      "file": "assets/logos/logo-stacked-blue.png",
+      "source": "Merki/PNG/Miðflokkurinn-Logo-blátt-1.png",
+      "sha256": "8268c5f779ca92304cbcf45e2c7fcea63bcff8d34f113a21a6399b1f11529834"
+    },
+    {
+      "file": "assets/logos/horse-blue.png",
+      "source": "Merki/PNG/Miðflokkurinn-hestur-blár.png",
+      "sha256": "3b755fb775a85f7e7c1d4399cd135bcc1c45de97a941fdb1612d36e241bd680c"
+    },
+    {
+      "file": "assets/logos/logo-stacked-white.svg",
+      "source": "Merki/Vector/Miðflokkurinn-Logo-hvitt-1.svg",
+      "sha256": "ccfb2a48298712ab84657ccafe092ea97066f62ec11099d4e55bd1ac0fc2a7c7"
+    },
+    {
+      "file": "assets/logos/logo-horizontal-white.svg",
+      "source": "Merki/Vector/Miðflokkurinn-Logo-hvitt-2.svg",
+      "sha256": "33996a0a3ae4b16cfda8fef14e70429f9564e9e0569770822de693f116f4c7e4"
+    },
+    {
+      "file": "assets/logos/horse-white-blue-circle.svg",
+      "source": "Merki/Vector/Miðflokkurinn-hestur-blárhringur.svg",
+      "sha256": "1f6fc282c33b9993ebe2cabe488c3d9edb358bf14069095de564438ab85f417a"
+    },
+    {
+      "file": "assets/logos/horse-blue-white-circle.svg",
+      "source": "Merki/Vector/Miðflokkurinn-hestur-hviturhringur.svg",
+      "sha256": "72e8d7d84f114100c459c46a64f84338e7736e47e26d8f51482f02bd732a3928"
+    },
+    {
+      "file": "assets/logos/horse-blue.svg",
+      "source": "Merki/Vector/Miðflokkurinn-hestur-blár.svg",
+      "sha256": "5e850b391a7b584c745d2d87cbcf28a87007849c0fe34282193e5f9a494af791"
+    },
+    {
+      "file": "assets/logos/logo-stacked-blue.svg",
+      "source": "Merki/Vector/Miðflokkurinn-Logo-blátt-1.svg",
+      "sha256": "fa380d3bf122b5091ebea79d9e2aa89d5a587ef171dc1303bbeb845f3c7db868"
+    },
+    {
+      "file": "assets/logos/logo-horizontal-blue.svg",
+      "source": "Merki/Vector/Miðflokkurinn-Logo-blátt-2.svg",
+      "sha256": "4e17c6f73e8246799f2d92e268c88af4ff3f41f9e786ffca6db53f3a788fec98"
+    },
+    {
+      "file": "assets/logos/horse-white.svg",
+      "source": "Merki/Vector/Miðflokkurinn-hestur-hvitur.svg",
+      "sha256": "ada638e77c1f37de4aae10c492180fde1c427abb42abe1d01816dd0e541dfbe1"
+    },
+    {
+      "file": "assets/logos/xm-transparent.png",
+      "source": "xM/PNG/xM - hvítt.png",
+      "sha256": "13192134e721dcd21f0e97e737ef23ba9bb2b09173ed6447405f9de9165d86d7"
+    },
+    {
+      "file": "assets/logos/xm-panel.png",
+      "source": "xM/PNG/xM - fleki.png",
+      "sha256": "1b6ef523bb8d8295980529e61acbce60886dc3195ecd05c1b128b329f267dae1"
+    },
+    {
+      "file": "assets/logos/xm-transparent.svg",
+      "source": "xM/Vector/xM - hvítt.svg",
+      "sha256": "6c9c83958d58e2cc530668869997811812c9a6808f3a4b497077dda72a890b33"
+    },
+    {
+      "file": "assets/logos/xm-panel.svg",
+      "source": "xM/Vector/xM - fleki.svg",
+      "sha256": "2bf40b23cba66eeced1ea407f3ce6f3112d0b9be6faf83eb76718696e42e0b54"
+    },
+    {
+      "file": "assets/backgrounds/eldur.png",
+      "source": "Glærubakgrunnar/midflokkurinn-bakgrunnar-17.png",
+      "sha256": "588cb50df9c6b4c709de8c1c01417df1a6786a61a511ee2a287ceb7b94bd445e"
+    },
+    {
+      "file": "assets/backgrounds/mold.png",
+      "source": "Glærubakgrunnar/midflokkurinn-bakgrunnar-18.png",
+      "sha256": "56bff45e431f146a819cb689e80b32094636ffc8a8b1c9f3eb7567734b6dd853"
+    },
+    {
+      "file": "assets/backgrounds/nott.png",
+      "source": "Glærubakgrunnar/midflokkurinn-bakgrunnar-19.png",
+      "sha256": "4ddfc9d18d3d3822c51a42b6cca31528c8f2d395caea8f3a4a613831e8de8dea"
+    },
+    {
+      "file": "assets/social/Stickers/Midflokkurinn-49.png",
+      "source": "Samfélagsmiðlar/Stickers/Midflokkurinn-49.png",
+      "sha256": "aff2cb47b6bb9b8df04677d5107c77999d500bec573373e5808e742e63fa525f"
+    },
+    {
+      "file": "assets/social/Stickers/Midflokkurinn-48.png",
+      "source": "Samfélagsmiðlar/Stickers/Midflokkurinn-48.png",
+      "sha256": "e8b3de1026dc7ffed49732e6b418da2fbc765b6a52188a7d21f63dcb7d3f3539"
+    },
+    {
+      "file": "assets/social/Stickers/Midflokkurinn-47.png",
+      "source": "Samfélagsmiðlar/Stickers/Midflokkurinn-47.png",
+      "sha256": "0610c18afe56a89cfa8536eabea0d4a3fa2231f1995c9f0442b20ab59520da99"
+    },
+    {
+      "file": "assets/social/Stickers/Midflokkurinn-50.png",
+      "source": "Samfélagsmiðlar/Stickers/Midflokkurinn-50.png",
+      "sha256": "fa9f31fedbf19123f0ff23e4dffada579374e20bcbf47eef4e995d5aba34eadb"
+    },
+    {
+      "file": "assets/social/Stickers/Midflokkurinn-22.png",
+      "source": "Samfélagsmiðlar/Stickers/Midflokkurinn-22.png",
+      "sha256": "7509f8680b16b99840a13574579f77ff2b46649a72e0607c672df3a91b5d49bc"
+    },
+    {
+      "file": "assets/social/Stickers/Midflokkurinn-20.png",
+      "source": "Samfélagsmiðlar/Stickers/Midflokkurinn-20.png",
+      "sha256": "a1e2d829fd952b5d87b6337d7be361e401b9337bbea0661b3689b4de600fca33"
+    },
+    {
+      "file": "assets/social/Stickers/Midflokkurinn-21.png",
+      "source": "Samfélagsmiðlar/Stickers/Midflokkurinn-21.png",
+      "sha256": "d0219efb7b13f0f0588e03554bc39cf31ebde0a902657669f76920d282a96c04"
+    },
+    {
+      "file": "assets/social/Profile overlay/xM-overlay.png",
+      "source": "Samfélagsmiðlar/Profile overlay/xM-overlay.png",
+      "sha256": "04045aa295cec0e1cdbfd2227794efa415c970fea014711338bc097806eedc0f"
+    },
+    {
+      "file": "assets/social/Profile mynd/midflokkurinn-pp.png",
+      "source": "Samfélagsmiðlar/Profile mynd/midflokkurinn-pp.png",
+      "sha256": "6b4c401f0788987729f4c39b9c08a6874051dcfc0895278da9585837677ed3de"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Mosfellsbær2.png",
+      "source": "Kjördæmi/PNG/xM - Mosfellsbær2.png",
+      "sha256": "a6455f39b456d042925577b1de5efa38a484a669bc1f80b13af527b2336ffa5f"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Skagafjörður1.png",
+      "source": "Kjördæmi/PNG/xM - Skagafjörður1.png",
+      "sha256": "6d71a13278d6a67aaf430e197109376b0f71b013448c776dbb0d902c78f06409"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Garðabær1.png",
+      "source": "Kjördæmi/PNG/xM - Garðabær1.png",
+      "sha256": "9ec131942a906ae116fde211be82090e23cecb25b67c676d0f429d453509bf54"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Mosfellsbær1.png",
+      "source": "Kjördæmi/PNG/xM - Mosfellsbær1.png",
+      "sha256": "9578081ad2b9fbc2700ffc1ea1dafa81dfb3e3d9dcda3479f5788ecf8b4a484e"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Skagafjörður2.png",
+      "source": "Kjördæmi/PNG/xM - Skagafjörður2.png",
+      "sha256": "12aab9ea651fdb02367efceffc0872bd7de1f10bbac84d527e14f089539409cc"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Garðabær2.png",
+      "source": "Kjördæmi/PNG/xM - Garðabær2.png",
+      "sha256": "0b2db659f9f6a310ab882058266463339e968668522d48f5533a3c5f5ac85ba3"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Húsavík1.png",
+      "source": "Kjördæmi/PNG/xM - Húsavík1.png",
+      "sha256": "03481936ef22bc3951099ed86e255589efad15d3f430289fc270d82ec9b981b7"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Suðurnesjabær1.png",
+      "source": "Kjördæmi/PNG/xM - Suðurnesjabær1.png",
+      "sha256": "d73bc85e86b34f3ca9e1995cccd1f00a3a7426d7a836299d6ec8e8dd52308aad"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Kópavogur1.png",
+      "source": "Kjördæmi/PNG/xM - Kópavogur1.png",
+      "sha256": "d48c56eac44a10c3d913b204207275eee372b4c7b40dd42fd5625ff63026cd14"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Suðurnesjabær2.png",
+      "source": "Kjördæmi/PNG/xM - Suðurnesjabær2.png",
+      "sha256": "fbd1be1b43c09e0d1c61b8fd576044f4b51bd991416f12c577742158e3561bbe"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Húsavík2.png",
+      "source": "Kjördæmi/PNG/xM - Húsavík2.png",
+      "sha256": "53a673191ae74c7c63f56e67852670b9ff06e988b538f31f2ae54392fee71042"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Kópavogur2.png",
+      "source": "Kjördæmi/PNG/xM - Kópavogur2.png",
+      "sha256": "3546f26031929604961d668aa8bced5d01017c41b070af1e46ce886548f83ace"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Grindavík1.png",
+      "source": "Kjördæmi/PNG/xM - Grindavík1.png",
+      "sha256": "f95df9f5565bec7c5939a1a3fbca38ea15a917feeafcf2a19785e1a96ae0b068"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Akranes2.png",
+      "source": "Kjördæmi/PNG/xM - Akranes2.png",
+      "sha256": "ba7f94a02a73fb287568862a99cd4c7ad830ef723bae25a44ba83a21eb19eb37"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Árborg1.png",
+      "source": "Kjördæmi/PNG/xM - Árborg1.png",
+      "sha256": "46e72c8a69f49eb63ba8b53b495bbc2da9f8d1bb76fd80c297c36fb7aec75a49"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Múlaþing1.png",
+      "source": "Kjördæmi/PNG/xM - Múlaþing1.png",
+      "sha256": "b829cd8a6d69d6f78660ecb00697122735c99d71de5aad8281dfc5b820177afd"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Reykjanesbær1.png",
+      "source": "Kjördæmi/PNG/xM - Reykjanesbær1.png",
+      "sha256": "4f680ae918e6d1247628499fec74ad12d5879411115f09c1addbcd970144e511"
+    },
+    {
+      "file": "assets/regional/PNG/xM - seltjarnarnes2.png",
+      "source": "Kjördæmi/PNG/xM - seltjarnarnes2.png",
+      "sha256": "24141e48a801aa468030fd8013b9bedcca5a3edfec3807baf97a2bfc792ac14b"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Þingeyjarsýsla2.png",
+      "source": "Kjördæmi/PNG/xM - Þingeyjarsýsla2.png",
+      "sha256": "deba72c859368461348e38b4f17b1916dfb61f2398e2a2d68168b2825ce97a39"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Grindavík2.png",
+      "source": "Kjördæmi/PNG/xM - Grindavík2.png",
+      "sha256": "a919f379f8c7e222fa9251cf5cd143b09557020a586470fd34908ae17a557460"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Akranes1.png",
+      "source": "Kjördæmi/PNG/xM - Akranes1.png",
+      "sha256": "10533882b1a564ffeb663476f0e29de12369e98a8baf45fdf8058c3f4fff404f"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Árborg2.png",
+      "source": "Kjördæmi/PNG/xM - Árborg2.png",
+      "sha256": "44afef1381f9b308ce76002c51890c6adeeb7591f3edb6b4a9861e3f8923a45b"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Múlaþing2.png",
+      "source": "Kjördæmi/PNG/xM - Múlaþing2.png",
+      "sha256": "b6a34621348fb3299ca5bf7bcc305c3374b96aa795b868a0f0385cc3be9fdad8"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Reykjanesbær2.png",
+      "source": "Kjördæmi/PNG/xM - Reykjanesbær2.png",
+      "sha256": "ceb6b5be03467860ce6278dc585df151177d76be07ad981651549b301eb3d2c5"
+    },
+    {
+      "file": "assets/regional/PNG/xM - seltjarnarnes1.png",
+      "source": "Kjördæmi/PNG/xM - seltjarnarnes1.png",
+      "sha256": "94d3ca026d4004ef2c0d9e20acf455392be78ca8557d5bde304fbf4421f6aaf6"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Þingeyjarsýsla1.png",
+      "source": "Kjördæmi/PNG/xM - Þingeyjarsýsla1.png",
+      "sha256": "f6ce14a4927db770d54c5c398f7e3b0b40e9759b2f944e0a97a0d22a5dd0168f"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Langanesbyggð1.png",
+      "source": "Kjördæmi/PNG/xM - Langanesbyggð1.png",
+      "sha256": "85c537c3679fa10d0e48de7894170835efa7de197870989a449df97a0082b254"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Vestmannaeyjar1.png",
+      "source": "Kjördæmi/PNG/xM - Vestmannaeyjar1.png",
+      "sha256": "7edc2c489fecd9c91c36fa58d18eafb860755be9b5a15821eadd5b7fd4e6b95b"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Reykjavík1.png",
+      "source": "Kjördæmi/PNG/xM - Reykjavík1.png",
+      "sha256": "43e56ba21a72087a39218d04edbd31cc9347856f298a45632d1bd5590a7b3aca"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Akureyri2.png",
+      "source": "Kjördæmi/PNG/xM - Akureyri2.png",
+      "sha256": "9f6e20ff00f0739a132f57bd3617f91ea62ccfa6b6b2a535517f2bff2146556f"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Langanesbyggð2.png",
+      "source": "Kjördæmi/PNG/xM - Langanesbyggð2.png",
+      "sha256": "6db9b2cbf96a05249cff362b854c42430f2ec186b99e9193fbc72bdcd29de32a"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Vestmannaeyjar2.png",
+      "source": "Kjördæmi/PNG/xM - Vestmannaeyjar2.png",
+      "sha256": "5e4246197a64f6c579742cfac3e437e16ad02a7c8a950d02e24b63e41fb9a449"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Reykjavík2.png",
+      "source": "Kjördæmi/PNG/xM - Reykjavík2.png",
+      "sha256": "7ce72b5ff75b518ea26bf9b70684a27169ba3b6f3f6d0a14e9d5062e6bd07e50"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Akureyri1.png",
+      "source": "Kjördæmi/PNG/xM - Akureyri1.png",
+      "sha256": "586e095be0a198bf66d1c04818f35ebf087ab1b732d16c47c5f059c454aa62a9"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Rangárþing2.png",
+      "source": "Kjördæmi/PNG/xM - Rangárþing2.png",
+      "sha256": "a79f2de62cae02f032da7b13cc0ef6620dd6c4dbd33f747ca964d99320994bee"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Rangárþing1.png",
+      "source": "Kjördæmi/PNG/xM - Rangárþing1.png",
+      "sha256": "5cb159750158d645a861e30da5a8600b76019298fb28c30b0deef70adafcbf47"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Hafnarfjörður2.png",
+      "source": "Kjördæmi/PNG/xM - Hafnarfjörður2.png",
+      "sha256": "b7eb89cf37d18e17b154233571cae1a7a426d00f59c42b6a08f4ce44adf6bf5c"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Fjarðabyggð2.png",
+      "source": "Kjördæmi/PNG/xM - Fjarðabyggð2.png",
+      "sha256": "745615afd4ff8bf3c09637c758d8955f4c844244f55579e46d287c6355d0d353"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Hafnarfjörður1.png",
+      "source": "Kjördæmi/PNG/xM - Hafnarfjörður1.png",
+      "sha256": "3ad2f09c8161ee00b1c098b4fc2821c02222c56f9b8eefbb7d30ce26ee8b1bf2"
+    },
+    {
+      "file": "assets/regional/PNG/xM - Fjarðabyggð1.png",
+      "source": "Kjördæmi/PNG/xM - Fjarðabyggð1.png",
+      "sha256": "a2429aeab85082fecffce0d9ad47bc30ed75dc8ed202154ca9b8ffa206270792"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Vestmannaeyjar2.svg",
+      "source": "Kjördæmi/Vector/xM - Vestmannaeyjar2.svg",
+      "sha256": "e7720b4665ae70d0b8e6e02337436242bbf7ceb2c5fce738166f51c1ad5331b8"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Akureyri1.svg",
+      "source": "Kjördæmi/Vector/xM - Akureyri1.svg",
+      "sha256": "00622a0fcbf2589b8d4dd13758e02fa3610258c4ca8fa807d79694559a1b87c0"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Reykjavík2.svg",
+      "source": "Kjördæmi/Vector/xM - Reykjavík2.svg",
+      "sha256": "32a3e94929425fc0b3f86cb5b9ae78db068260fa2a96d69183f4090b69cf76d2"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Langanesbyggð2.svg",
+      "source": "Kjördæmi/Vector/xM - Langanesbyggð2.svg",
+      "sha256": "25f403d80eb190585a8c8bbbba7534420fb28dd84261095f39f4d5b8ef1afcbd"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Vestmannaeyjar1.svg",
+      "source": "Kjördæmi/Vector/xM - Vestmannaeyjar1.svg",
+      "sha256": "fb70c03173b2aecb5a22e53cc32498b1d98aac7c29a5ec889c89e3d7ccbf7e19"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Akureyri2.svg",
+      "source": "Kjördæmi/Vector/xM - Akureyri2.svg",
+      "sha256": "0707b5097ab63125767b483d86d55a56f9c182ac21a7e10bae2bb4cedad175bd"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Reykjavík1.svg",
+      "source": "Kjördæmi/Vector/xM - Reykjavík1.svg",
+      "sha256": "43c7d809c5943d6dda8c382755934c05c8fe446cc2e9a8c8f5608b8ea4a1272a"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Langanesbyggð1.svg",
+      "source": "Kjördæmi/Vector/xM - Langanesbyggð1.svg",
+      "sha256": "7d6cb56788d62abb3e469eb10308ed8152b7fbadcc1bbc4a024427b3ca214bb3"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Þingeyjarsýsla1.svg",
+      "source": "Kjördæmi/Vector/xM - Þingeyjarsýsla1.svg",
+      "sha256": "3e6d8d9ac40f87baafe35110fcfdd0c98b30f9467e01af3abf5e4e6b44ddc292"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Reykjanesbær2.svg",
+      "source": "Kjördæmi/Vector/xM - Reykjanesbær2.svg",
+      "sha256": "2ffe403d71f904fddc200ba0d1f8cc62dd499759340b2d8f17bdc0913ba887d4"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Múlaþing2.svg",
+      "source": "Kjördæmi/Vector/xM - Múlaþing2.svg",
+      "sha256": "11fdc1ab33b6f511c4c4100f1b3b91221d892f10c8b3ce83a2b01ea3dc845a0c"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Árborg2.svg",
+      "source": "Kjördæmi/Vector/xM - Árborg2.svg",
+      "sha256": "3d9ebc904e4c684741889bb85e3ef1a32f17ee58d6cdee1567f0c33269373107"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Akranes1.svg",
+      "source": "Kjördæmi/Vector/xM - Akranes1.svg",
+      "sha256": "3fa93b018afa15f81f97a0c81a78807b2d388a9884d2a8ae5ba881b60a3b977f"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Húsavík1.png",
+      "source": "Kjördæmi/Vector/xM - Húsavík1.png",
+      "sha256": "03481936ef22bc3951099ed86e255589efad15d3f430289fc270d82ec9b981b7"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Grindavík2.svg",
+      "source": "Kjördæmi/Vector/xM - Grindavík2.svg",
+      "sha256": "1d4806e1522e653aac0049907c7860d315d4c2bcbd9f18504191f0445bc04b0d"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Þingeyjarsýsla2.svg",
+      "source": "Kjördæmi/Vector/xM - Þingeyjarsýsla2.svg",
+      "sha256": "5d88adb7820b7f305394adfb1a17f1a3ac4f92bf09e64a0ad82d27f9d5ea1b31"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Reykjanesbær1.svg",
+      "source": "Kjördæmi/Vector/xM - Reykjanesbær1.svg",
+      "sha256": "f04fbf194b726af841c0ccea693d82a20c5ed98c8d6f7be3d33f6e4401a5b8ca"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Múlaþing1.svg",
+      "source": "Kjördæmi/Vector/xM - Múlaþing1.svg",
+      "sha256": "05e5a08755ab467e7b6f4637e113913e2e23f9f48ffba19225e04bc90b8b28b8"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Árborg1.svg",
+      "source": "Kjördæmi/Vector/xM - Árborg1.svg",
+      "sha256": "3347853b13c276f3f93098d49123c3603a55821494e269c4dcf4c136a8a12473"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Akranes2.svg",
+      "source": "Kjördæmi/Vector/xM - Akranes2.svg",
+      "sha256": "801824ca5303e51c0dad26397ffe610f6ecdecc3eca84f3f97e51e0202e4f2d2"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Húsavík2.png",
+      "source": "Kjördæmi/Vector/xM - Húsavík2.png",
+      "sha256": "53a673191ae74c7c63f56e67852670b9ff06e988b538f31f2ae54392fee71042"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Grindavík1.svg",
+      "source": "Kjördæmi/Vector/xM - Grindavík1.svg",
+      "sha256": "eb104d165e340bbdffae28e4a308e23f4d9a5272951aef12b28389ee6e09ee39"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Suðurnesjabær2.svg",
+      "source": "Kjördæmi/Vector/xM - Suðurnesjabær2.svg",
+      "sha256": "421ac9191c4a2e91ca9c79f948e33a5170c87e24d3c610bb6ccbd32342e4fbac"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Kópavogur2.svg",
+      "source": "Kjördæmi/Vector/xM - Kópavogur2.svg",
+      "sha256": "4e7f03e8084c51622be583afcd7cd85e84ebc382c40a15d42ad2d9ebbc503641"
+    },
+    {
+      "file": "assets/regional/Vector/xM - seltjarnarnes2.png",
+      "source": "Kjördæmi/Vector/xM - seltjarnarnes2.png",
+      "sha256": "24141e48a801aa468030fd8013b9bedcca5a3edfec3807baf97a2bfc792ac14b"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Suðurnesjabær1.svg",
+      "source": "Kjördæmi/Vector/xM - Suðurnesjabær1.svg",
+      "sha256": "e427945314f0297903e7871a6b97c5f365701b5e51d19369ede38619460282fa"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Kópavogur1.svg",
+      "source": "Kjördæmi/Vector/xM - Kópavogur1.svg",
+      "sha256": "674b0fe1c6a8a7fcd30a1dc875917848b49b2a8c09b411df0d8a95b8fddc3866"
+    },
+    {
+      "file": "assets/regional/Vector/xM - seltjarnarnes1.png",
+      "source": "Kjördæmi/Vector/xM - seltjarnarnes1.png",
+      "sha256": "94d3ca026d4004ef2c0d9e20acf455392be78ca8557d5bde304fbf4421f6aaf6"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Garðabær2.svg",
+      "source": "Kjördæmi/Vector/xM - Garðabær2.svg",
+      "sha256": "5a515bacd5fb08680159c1ac07de3bfff934c4ce05e90d2037a11bf0857b48c4"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Skagafjörður2.svg",
+      "source": "Kjördæmi/Vector/xM - Skagafjörður2.svg",
+      "sha256": "7bfb8354014780e6f5155d0a3a6dd3ed1177843337ac89c2664741e4c5ad748e"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Mosfellsbær1.svg",
+      "source": "Kjördæmi/Vector/xM - Mosfellsbær1.svg",
+      "sha256": "bd53f1c79083518c5d6d84b02ad8d9721bbd9ed4e2201a539df33a54d8287cf1"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Garðabær1.svg",
+      "source": "Kjördæmi/Vector/xM - Garðabær1.svg",
+      "sha256": "b99f1931eaf43656a231aabfe14855f48bc89e1cc7ef0f3fd223a175e7e5c33f"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Skagafjörður1.svg",
+      "source": "Kjördæmi/Vector/xM - Skagafjörður1.svg",
+      "sha256": "9b068c8fd08ac0790c643ba1393dee9a57a209faa937e208c4ebc8e06d2a63ed"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Mosfellsbær2.svg",
+      "source": "Kjördæmi/Vector/xM - Mosfellsbær2.svg",
+      "sha256": "cb3ca5bb426f4c9ea3b6bc54c3876bbf1f4001e50628b06effed1b02da21b0f6"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Fjarðabyggð1.svg",
+      "source": "Kjördæmi/Vector/xM - Fjarðabyggð1.svg",
+      "sha256": "9d9425ee8fffee567a3764ed6923af6f4d154c4ad320f6019889e20b46ca883e"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Hafnarfjörður1.svg",
+      "source": "Kjördæmi/Vector/xM - Hafnarfjörður1.svg",
+      "sha256": "64a1a828b3d596fe03e18b84b1e7179e6c5ede47878889d7be061f43c438f7c4"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Fjarðabyggð2.svg",
+      "source": "Kjördæmi/Vector/xM - Fjarðabyggð2.svg",
+      "sha256": "930f957eb52f73558d056a3a73d9fdcbacdee159b4063ddcc0dcfc8c336059a2"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Hafnarfjörður2.svg",
+      "source": "Kjördæmi/Vector/xM - Hafnarfjörður2.svg",
+      "sha256": "5a1009b72f0ef894a24f9209acb855bb246ce4fd5a2f5cc1018b23b028e6d6ac"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Rangárþing1.svg",
+      "source": "Kjördæmi/Vector/xM - Rangárþing1.svg",
+      "sha256": "5085bd1aef150807f2ba81c0641882e948fb2dde803654a1da0a8a954fdc4951"
+    },
+    {
+      "file": "assets/regional/Vector/xM - Rangárþing2.svg",
+      "source": "Kjördæmi/Vector/xM - Rangárþing2.svg",
+      "sha256": "2d7545f5ee67da8a1a28ad47507213bb0888e5a7a25297ba99eac83dd795f9cc"
+    },
+    {
+      "file": "assets/color-guide.pdf",
+      "source": "Litir/miðflokkurinn-litir.pdf",
+      "sha256": "4ae5f0d0af9f28efacf095cc4620993052b6e79eceb4c9a869b7b42a146ca64e"
+    }
+  ]
+}

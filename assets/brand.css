@@ -1,0 +1,29 @@
+/* Exact colors from supplied palette; typography roles from midflokkurinn.is, 2026-10-08. */
+@font-face { font-family: 'MF Roboto'; src: url('./fonts/Roboto-Regular.ttf') format('truetype'); font-style: normal; font-weight: 400; font-display: swap; }
+@font-face { font-family: 'MF Roboto'; src: url('./fonts/Roboto-Medium.ttf') format('truetype'); font-style: normal; font-weight: 500; font-display: swap; }
+@font-face { font-family: 'MF Roboto'; src: url('./fonts/Roboto-Bold.ttf') format('truetype'); font-style: normal; font-weight: 700; font-display: swap; }
+@font-face { font-family: 'MF Roboto'; src: url('./fonts/Roboto-Black.ttf') format('truetype'); font-style: normal; font-weight: 900; font-display: swap; }
+@font-face { font-family: 'MF Blacker'; src: url('./fonts/Blacker-Pro-Display-Condensed-Regular.otf') format('opentype'); font-style: normal; font-weight: 400; font-display: swap; }
+@font-face { font-family: 'MF Blacker'; src: url('./fonts/Blacker-Pro-Display-Condensed-Italic.ttf') format('truetype'); font-style: italic; font-weight: 400; font-display: swap; }
+:root {
+  --mf-nott: #0f234c;
+  --mf-haf: #013954;
+  --mf-himinn: #6296bc;
+  --mf-eldur: #892222;
+  --mf-sol: #dbb765;
+  --mf-mold: #382e2d;
+  --mf-fonn: #ffffff;
+  --mf-text: #4e4e4e;
+  --mf-border: #cecece;
+  --mf-surface: #FAFBFC;
+  --mf-font: 'MF Roboto', sans-serif;
+  --mf-display: 'MF Blacker', serif;
+}
+/* Opt-in classes: copy only the styles the requested artifact needs. */
+.mf-body { font-family: var(--mf-font); font-weight: 400; line-height: 1.6; color: var(--mf-text); }
+.mf-heading { font-family: var(--mf-font); font-weight: 700; line-height: 1.2; color: var(--mf-nott); }
+.mf-hero { font-family: var(--mf-font); font-weight: 900; text-transform: uppercase; line-height: 1; letter-spacing: -0.02em; }
+.mf-emphasis { color: var(--mf-sol); }
+.mf-night { background: var(--mf-nott); color: var(--mf-fonn); }
+.mf-button { font-family: var(--mf-font); font-weight: 500; background: var(--mf-nott); color: var(--mf-sol); border: 0; border-radius: 5px; padding: 5px 20px; min-height: 40px; }
+.mf-button:hover { background: var(--mf-eldur); color: var(--mf-fonn); }
