@@ -7,6 +7,10 @@ description: Apply Miðflokkurinn's visual identity to requested videos, website
 
 Samræmdu umbeðið efni ásýnd Miðflokksins. Skillinn geymir liti, letur og upprunaleg merki úr ásýndarpakka notandans, ásamt staðfestri notkun á midflokkurinn.is frá 8. október 2026.
 
+## Fyrsta skref í hverju verkefni: athuga uppfærslu
+
+Áður en þú notar ásýndarreglurnar skaltu athuga hvort ný útgáfa sé á GitHub samkvæmt [uppfærsluleiðbeiningunum](references/updates.md). Gerðu þetta við hverja nýja virkjun skillsins, líka í nýju verkefni innan sama samtals; ekki fyrir hverja smáleiðréttingu í yfirstandandi verkefni. Sæktu nýrri útgáfu þegar umhverfið leyfir og lestu uppfærðar leiðbeiningar áður en þú heldur áfram. Ef athugunin tekst ekki skaltu segja það stuttlega og nota uppsettu reglurnar, án þess að fullyrða að þær séu nýjustu reglurnar.
+
 ## Veldu réttan grunn
 
 - Lestu [ásýndarreglurnar](references/identity.md) áður en þú hannar. Þar eru opinberar litareglur aðgreindar frá athugunum á vefnum og tillögum að útfærslu.

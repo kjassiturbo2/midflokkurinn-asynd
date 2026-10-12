@@ -64,7 +64,11 @@ Skillið sér um ásýndina. Hvort hægt sé að búa til myndir, myndbönd eða
 
 Skillið krefst þess að auglýsingar séu settar saman með réttu letri, upprunalegum merkjum og raunverulegum ljósmyndum. Það á ekki að láta myndlíkan teikna heila auglýsingu eða skálda merki og staðhætti. Ef gervigreindarverkfærið þitt getur ekki sett grafíkina saman á þennan hátt á það að segja það.
 
-Ef þú settir skillið upp áður skaltu biðja gervigreindina þína:
+## Uppfærslur
+
+Skillið biður gervigreindina um að athuga GitHub í upphafi hvers nýs verkefnis og sækja nýrri útgáfu áður en hún byrjar. Þetta krefst þess að verkfærið hafi netaðgang og geti uppfært uppsetta skillið. Ef það getur það ekki á það að láta þig vita.
+
+Ef þú settir skillið upp áður en þessi uppfærsluregla bættist við þarftu að uppfæra það einu sinni. Láttu gervigreindina fá þessi skilaboð:
 
 ```text
 Uppfærðu midflokkurinn-asynd skillið mitt í nýjustu útgáfu frá https://github.com/kjassiturbo2/midflokkurinn-asynd
