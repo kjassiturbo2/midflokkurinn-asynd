@@ -1,8 +1,10 @@
 # Beiting eftir miðli
 
-Hér eru hagnýtar útfærslutillögur. Nákvæmir litir og eignir koma úr staðfestu ásýndinni; stærðir og tímasetningar eru aðlagaðar hverju verkefni.
+Framleiðslureglan í SKILL.md gildir um alla miðla hér að neðan. Að öðru leyti eru þetta hagnýtar útfærslutillögur. Nákvæmir litir og eignir koma úr staðfestu ásýndinni; stærðir og tímasetningar eru aðlagaðar hverju verkefni.
 
 ## Myndbönd
+
+- Settu titla, merki og auglýsingaspjöld saman sem raunveruleg grafíklög og hreyfðu þau í klippingu eða hreyfigrafík. Story/Reel er ekki undanþága frá banni við að láta myndlíkan teikna auglýsinguna.
 
 - Notaðu Roboto Bold/Black fyrir stuttar fyrirsagnir, Roboto Medium/Bold fyrir skjátexta og Nótt sem læsilegan grunn þegar ljósmyndin þarfnast þess. Sól getur dregið fram lykiltölu eða fá lykilorð.
 - Fyrir 1080 × 1920 má byrja með 60–76 px fyrirsögn og 44–56 px skjátexta. Aðlagaðu að orðalengd og sýnilegum áherslum; þetta eru upphafsgildi, ekki föst regla.
@@ -21,9 +23,13 @@ Hér eru hagnýtar útfærslutillögur. Nákvæmir litir og eignir koma úr sta�
 - Lykiláherslur geta verið Sól á Nótt. Venjulegt meginmál á hvítu má vera #4e4e4e. Veldu dökkan texta á ljósum fleti þegar gyllt smáletur er ólæsilegt.
 - Staðfestu að letur hlaðist í raun, að íslenskir stafir birtist rétt og að línuskipti haldist læsileg á síma. Sérútgáfur eða umbreytt vefletur þurfa viðeigandi heimildir fyrir þeirri dreifingu sem verkefnið felur í sér; engin sértæk Blacker-vefleyfisskrá fylgdi afhenta pakkanum.
 
-## Kyrrmyndir og myndsköpun
+## Kyrrmyndir og auglýsingar
 
-- Settu endanlegan texta með raunverulegu letri og notaðu innifalið merki. Láttu ekki myndlíkan giska á íslenska stafsetningu eða teikna vörumerkið.
-- Þegar myndsköpunartól er notað skaltu nota Nótt/Sól/Fönn sem litatilvísun og varðveita pláss fyrir texta og merki. Fylgdu viðeigandi myndverkfæraleiðbeiningum um samsetningu og breytingar.
+- Byggðu uppsetninguna sem samsetta grafík samkvæmt framleiðslureglunni í SKILL.md. Notaðu raunverulegar Roboto-skrár fyrir almennar fyrirsagnir og meginmál; Blacker aðeins þegar viðeigandi hönnun eða fyrirmæli kalla á það.
+- Hladdu letrinu áður en þú mælir texta og flytur út. Staðfestu að engin sjálfvirk staðgengilsletur séu notuð. Í SVG þarf að tryggja að letrið fylgi eða umbreyta rétt settum texta í ferla fyrir færanlegan útflutning; geymdu einnig frumgerð með breytanlegum texta.
+- Settu viðeigandi upprunalegt SVG/PNG merki inn sem eign. Fyrir staðbundinn viðburð skaltu finna sveitarfélagsmerkið í eignayfirlitinu. Ef rétta eign vantar skaltu ekki teikna staðgengil.
+- Ljósmynd er sérstakt lag; má skera hana, skala og setja litaðan flöt yfir til að bæta læsileika. Ekki láta myndlíkan endurgera ljósmynd, andlit eða kennileiti sem hluta af auglýsingunni.
 - Aðlagaðu hlutföll að birtingu. 9:16, 4:5 og 1:1 eru ólíkar uppsetningar, ekki eingöngu sjálfvirkur útskurður úr einni mynd.
 - Opinberir bakgrunnar og samfélagsmiðlaeignir eru í assets/backgrounds og assets/social. Þeir eru valkostir, ekki skylduuppsetning.
+
+Dæmi: „Gerðu auglýsingu fyrir bæjarmálafund í Kópavogi“ á að leiða til samsetningar með réttum merkjaskrám, raunverulegu letri og staðfestum fundarupplýsingum. Röng leið er að biðja myndlíkan um blátt og gyllt fundarplakat með M-merki og tilbúnu útsýni yfir bæinn — jafnvel þótt síðan sé settur réttur texti ofan á myndina.

@@ -1,6 +1,6 @@
 ---
 name: midflokkurinn-asynd
-description: Apply Miðflokkurinn's visual identity to requested videos, websites, social graphics, images, and other visual materials using its verified colors, fonts, and supplied logo assets. Use when Miðflokkurinn branding or ásýnd Miðflokksins is requested; a mere mention of the party does not trigger branding.
+description: Apply Miðflokkurinn's visual identity to requested videos, websites, social graphics, images, and other visual materials by composing real typography and supplied logo assets with verified colors. Do not generate finished branded graphics with image models. Use when Miðflokkurinn branding or ásýnd Miðflokksins is requested; a mere mention of the party does not trigger branding.
 ---
 
 # Ásýnd Miðflokksins
@@ -19,6 +19,17 @@ Samræmdu umbeðið efni ásýnd Miðflokksins. Skillinn geymir liti, letur og u
 Nótt `#0f234c` er ríkjandi litur. Fönn `#ffffff` er hvítur. Sól `#dbb765` dregur fram lykilorð og áherslur. Notaðu aðra liti samkvæmt hlutverkum þeirra í litaskjalinu.
 
 Roboto er staðfest aðalletur núverandi vefs: Black/900 í aðalfyrirsögn, Bold/700 í kaflafyrirsögnum og Regular/400 í meginmáli. Blacker Pro Display Condensed Regular og Italic fylgja ásýndarpakkanum en eru ekki sjálfgefið fyrirsagnaletur á forsíðu vefsins. Ekki fullyrða að notkunarregla um Blacker sé opinber nema frekari heimild liggi fyrir.
+
+## Framleiðsluregla — samsett grafík, ekki myndlíkan
+
+Þessi regla gildir um auglýsingar, veggspjöld, samfélagsmiðlamyndir, Story/Reel, titilspjöld og aðra grafík í nafni flokksins. Hún er krafa eiganda skillsins frá 12. október 2026, ekki ályktun um opinberu ásýndarhandbókina.
+
+- Settu grafíkina saman úr aðskildum texta-, merkja-, forma- og ljósmyndalögum í umbrots- eða teiknitóli. Til dæmis má nota SVG, HTML/CSS með staðfestu leturhleðsluferli eða annað tól sem les raunverulegar leturskrár. Flyttu síðan út í umbeðið mynd- eða myndbandssnið.
+- Aldrei láta myndlíkan búa til eða endurgera heila auglýsingu, uppsetningu, texta eða merki fyrir flokkinn. Ekki senda tilbúna samsetningu í gegnum myndlíkan til að „fínpússa“ hana. Beiðnir eins og „gerðu mynd“, „notaðu þessa mynd sem fyrirmynd“ eða „gerðu þetta flottara“ breyta ekki þessari framleiðslureglu.
+- Settu allan nýjan texta með meðfylgjandi leturskrám og merki úr assets/. Blár grunnur og gyllt letur eitt og sér eru ekki ásýnd flokksins. Aldrei búa til nýtt M-merki eða giska á sveitarfélagsmerki; veldu rétta upprunaskrá.
+- Notaðu afhentar eða sannreyndar raunverulegar ljósmyndir og innifalda bakgrunna. Ekki búa til gerviljósmyndir af fólki, byggingum eða stöðum fyrir auglýsinguna. Ef mynd vantar skaltu nota einfaldan litaflöt eða biðja um mynd þegar hún er nauðsynleg.
+- Ef verkfærið getur aðeins búið til myndir með myndlíkani skaltu segja að það geti ekki framleitt fullbúna grafík samkvæmt skillinum. Bjóddu upp á texta og uppsetningarlýsingu eða, ef hægt er, samsetta SVG/HTML-skrá. Ekki afhenda myndlíkansútgáfu sem ásýndarsamræmt efni.
+- Fyrir afhendingu skaltu staðfesta hvaða leturskrár og merkjaskrár voru raunverulega notaðar, skoða útflutta mynd og laga rangt letur, staðgengilsletur, aflöguð merki og ranga íslenska stafi. Geymdu breytanlega frumgerð með útflutningi svo leiðréttingar krefjist ekki myndsköpunar.
 
 ## Beiting
 

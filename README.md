@@ -59,3 +59,13 @@ Búðu til fimm glærur úr punktunum sem ég set hér fyrir neðan. Notaðu mid
 Þú þarft ekki að fá allt rétt í fyrstu tilraun. Þú getur haldið áfram í sama samtali og sagt til dæmis: „Stækkaðu tímann“, „Hafðu minni texta“ eða „Notaðu þessa mynd í staðinn“.
 
 Skillið sér um ásýndina. Hvort hægt sé að búa til myndir, myndbönd eða glæruskrár fer eftir gervigreindarverkfærinu sem þú notar.
+
+## Hvernig grafíkin er gerð
+
+Skillið krefst þess að auglýsingar séu settar saman með réttu letri, upprunalegum merkjum og raunverulegum ljósmyndum. Það á ekki að láta myndlíkan teikna heila auglýsingu eða skálda merki og staðhætti. Ef gervigreindarverkfærið þitt getur ekki sett grafíkina saman á þennan hátt á það að segja það.
+
+Ef þú settir skillið upp áður skaltu biðja gervigreindina þína:
+
+```text
+Uppfærðu midflokkurinn-asynd skillið mitt í nýjustu útgáfu frá https://github.com/kjassiturbo2/midflokkurinn-asynd
+```
