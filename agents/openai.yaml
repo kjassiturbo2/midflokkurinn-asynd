@@ -1,4 +1,4 @@
 interface:
   display_name: "Ásýnd Miðflokksins"
-  short_description: "Litir, letur og merki fyrir myndbönd, vefi og myndir"
+  short_description: "Myndbandsklipping, textun og ásýnd Miðflokksins"
   default_prompt: "Notaðu $midflokkurinn-asynd til að samræma þetta efni ásýnd Miðflokksins."

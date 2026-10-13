@@ -1,6 +1,6 @@
 ---
 name: midflokkurinn-asynd
-description: Apply Miðflokkurinn's visual identity to requested videos, websites, social graphics, images, and other visual materials by composing real typography and supplied logo assets with verified colors. Do not generate finished branded graphics with image models. Use when Miðflokkurinn branding or ásýnd Miðflokksins is requested; a mere mention of the party does not trigger branding.
+description: Create and edit Miðflokkurinn-branded videos and visual materials. For video and speech clips, select and sequence excerpts, tighten pauses, reframe, subtitle Icelandic speech, and add requested source-document inserts while preserving meaning. Use real typography and supplied brand assets. Use when this skill or Miðflokkurinn branding is requested; a mere mention of the party does not trigger it.
 ---
 
 # Ásýnd Miðflokksins
@@ -14,7 +14,7 @@ Samræmdu umbeðið efni ásýnd Miðflokksins. Skillinn geymir liti, letur og u
 ## Veldu réttan grunn
 
 - Lestu [ásýndarreglurnar](references/identity.md) áður en þú hannar. Þar eru opinberar litareglur aðgreindar frá athugunum á vefnum og tillögum að útfærslu.
-- Fyrir myndbönd skaltu lesa [myndbandsleiðbeiningarnar](references/media.md#myndbönd). Samfélagsmiðlaklippur og ræðubrot hafa þar sérstakar sjálfgefnar óskir eiganda: myndefnið í aðalhlutverki, 9:16 fyrir stuttar klippur, hóflegur skurður, lítið upprunalegt merki og trú íslensk textun með hvítu Roboto Bold og svörtum útlínum. Sérstakar óskir notandans ganga framar; þetta eru ekki nýjar opinberar ásýndarreglur.
+- Fyrir klippingu myndbanda og ræðubrota skaltu lesa [myndbandsverkhlutann](references/video.md): efnisval og röð, þétting tals, skurður, íslensk textun, heimildarinnskot, samstilling og lokayfirferð. Verkhlutinn er hluti af þessu skilli og krefst ekki annars skills. Sérstakar óskir notanda ganga framar sjálfgefnum vinnureglum.
 - Fyrir myndir eða vefi skaltu lesa viðeigandi kafla í [miðlaleiðbeiningunum](references/media.md).
 - Nákvæm stílgildi eru í [assets/tokens.json](assets/tokens.json). Vefstílar og staðbundnar leturvísanir eru í [assets/brand.css](assets/brand.css).
 - Veldu raunverulegt merki úr [eignayfirlitinu](references/assets.md). Allar eignir eru innifaldar í skillinum; ekki byggja á því að upprunamappan sé áfram á sama stað.

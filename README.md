@@ -1,6 +1,6 @@
 # Ásýnd Miðflokksins
 
-Skill sem hjálpar gervigreindinni þinni að nota rétta liti, letur og merki Miðflokksins í myndum, myndböndum, vefjum og öðru efni.
+Skill fyrir myndbandsklippingu, íslenska textun og ásýnd Miðflokksins í myndum, myndböndum, vefjum og öðru efni. Myndbandsverkhlutinn fylgir með í sama pakka; ekki þarf að setja upp annað skill.
 
 ## Uppsetning
 
@@ -23,6 +23,14 @@ Notaðu midflokkurinn-asynd skillið til að gefa þessu efni ásýnd Miðflokks
 ## Dæmi sem þú getur prófað
 
 Afritaðu eitt af dæmunum hér fyrir neðan inn í samtalið við gervigreindina. Breyttu stað, tíma og öðrum upplýsingum eftir þörfum. Þegar þú vilt nota mynd af þér skaltu hengja hana við sömu skilaboð, til dæmis með bréfaklemmunni eða plúsmerkinu við textareitinn.
+
+### Klippa ræðubrot
+
+```text
+Notaðu midflokkurinn-asynd til að klippa meðfylgjandi upptöku í stutt myndband um [viðfangsefni]. Leggðu áherslu á [ræðumann eða atriði]. Veldu skýrt upphaf, þéttu hik og langar þagnir og textaðu á íslensku. Varðveittu samhengi og mikilvæga fyrirvara.
+```
+
+Sjálfgefið fær stutt ræðubrot lóðrétt 9:16 snið, hóflegan skurð, lítið flokksmerki og hvítan íslenskan skjátexta með svörtum útlínum. Þú getur beðið um annað. Ef skjal á að birtast með talinu skaltu láta það fylgja og segja hvaða atriði á að sýna.
 
 ### Auglýsing fyrir fund
 
@@ -58,7 +66,7 @@ Búðu til fimm glærur úr punktunum sem ég set hér fyrir neðan. Notaðu mid
 
 Þú þarft ekki að fá allt rétt í fyrstu tilraun. Þú getur haldið áfram í sama samtali og sagt til dæmis: „Stækkaðu tímann“, „Hafðu minni texta“ eða „Notaðu þessa mynd í staðinn“.
 
-Skillið sér um ásýndina. Hvort hægt sé að búa til myndir, myndbönd eða glæruskrár fer eftir gervigreindarverkfærinu sem þú notar.
+Skillið leiðbeinir um klippingu og ásýnd. Raunveruleg framleiðsla og talgreining krefjast viðeigandi verkfæra í umhverfinu þínu. Letur og merki fylgja pakkanum. Valfrjálst hjálparforrit fyrir tímasetningar notar aðeins Python 3 og engar viðbótapakkningar; það er ekki myndbandsritill.
 
 ## Hvernig grafíkin er gerð
 
