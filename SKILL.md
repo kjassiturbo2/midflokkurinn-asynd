@@ -14,7 +14,8 @@ Samræmdu umbeðið efni ásýnd Miðflokksins. Skillinn geymir liti, letur og u
 ## Veldu réttan grunn
 
 - Lestu [ásýndarreglurnar](references/identity.md) áður en þú hannar. Þar eru opinberar litareglur aðgreindar frá athugunum á vefnum og tillögum að útfærslu.
-- Fyrir myndbönd, myndir eða vefi skaltu einnig lesa viðeigandi kafla í [miðlaleiðbeiningunum](references/media.md).
+- Fyrir myndbönd skaltu lesa [myndbandsleiðbeiningarnar](references/media.md#myndbönd). Samfélagsmiðlaklippur og ræðubrot hafa þar sérstakar sjálfgefnar óskir eiganda: myndefnið í aðalhlutverki, 9:16 fyrir stuttar klippur, hóflegur skurður, lítið upprunalegt merki og trú íslensk textun með hvítu Roboto Bold og svörtum útlínum. Sérstakar óskir notandans ganga framar; þetta eru ekki nýjar opinberar ásýndarreglur.
+- Fyrir myndir eða vefi skaltu lesa viðeigandi kafla í [miðlaleiðbeiningunum](references/media.md).
 - Nákvæm stílgildi eru í [assets/tokens.json](assets/tokens.json). Vefstílar og staðbundnar leturvísanir eru í [assets/brand.css](assets/brand.css).
 - Veldu raunverulegt merki úr [eignayfirlitinu](references/assets.md). Allar eignir eru innifaldar í skillinum; ekki byggja á því að upprunamappan sé áfram á sama stað.
 
@@ -37,7 +38,7 @@ Roboto er staðfest aðalletur núverandi vefs: Black/900 í aðalfyrirsögn, Bo
 
 ## Beiting
 
-- Haltu umbeðnu innihaldi, sniði og umfangi. Ásýndin bætir ekki sjálfkrafa við slagorðum, nafnaborðum, merkjum eða pólitískum skilaboðum sem notandinn bað ekki um.
+- Haltu umbeðnu innihaldi, sniði og umfangi. Ásýndin bætir ekki sjálfkrafa við slagorðum, nafnaborðum eða pólitískum skilaboðum sem notandinn bað ekki um. Fyrir samfélagsmiðlaklippur og ræðubrot gilda sjálfgefnar óskir eiganda um lítið upprunalegt merki og textun tals samkvæmt myndbandsleiðbeiningunum; fyrir aðra miðla bætast merki ekki sjálfkrafa við.
 - Notaðu upprunaleg SVG eða PNG merki. Varðveittu hlutföll og liti. Ekki endurteikna hestinn, búa til xM með venjulegu letri eða láta myndlíkön endurgera merkin.
 - Notaðu raunverulegar leturskrár og staðfestu íslensku stafina, þar á meðal Þ, þ, Ð, ð, Æ, æ, Ö og ö. Ekki herma eftir Blacker með Georgia eða Roboto með Arial og kalla það fulla samræmingu.
 - Skjöl sem birtast inni í mynd eða myndbandi halda upprunalegu letri og útliti. Merktu umgjörðina, ekki frumheimildina.

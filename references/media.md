@@ -4,16 +4,30 @@ Framleiðslureglan í SKILL.md gildir um alla miðla hér að neðan. Að öðru
 
 ## Myndbönd
 
-- Settu titla, merki og auglýsingaspjöld saman sem raunveruleg grafíklög og hreyfðu þau í klippingu eða hreyfigrafík. Story/Reel er ekki undanþága frá banni við að láta myndlíkan teikna auglýsinguna.
+### Samfélagsmiðlaklippur og ræðubrot — sjálfgefnar óskir eiganda
 
-- Notaðu Roboto Bold/Black fyrir stuttar fyrirsagnir, Roboto Medium/Bold fyrir skjátexta og Nótt sem læsilegan grunn þegar ljósmyndin þarfnast þess. Sól getur dregið fram lykiltölu eða fá lykilorð.
-- Fyrir 1080 × 1920 má byrja með 60–76 px fyrirsögn og 44–56 px skjátexta. Aðlagaðu að orðalengd og sýnilegum áherslum; þetta eru upphafsgildi, ekki föst regla.
-- Virða beiðni um tímabundinn titil. Ef titill á að hverfa með innskoti þarf bæði texti og bakgrunnur hans að fara út á sama tíma. Ekki skilja tóma skyggingu eða borða eftir.
-- Ekki bæta við föstum nafnaborða eða vatnsmerki án ástæðu í verkefninu. Ekki fela innbrenndan texta upptöku með nýjum borða eftir að notandi hefur óskað eftir að borðinn sé tekinn út. Upplýstu stutt ef upprunalegi textinn verður sýnilegur.
+Myndefnið og ræðumaðurinn eiga að vera í aðalhlutverki. Ásýnd flokksins á að vera látlaus. Eftirfarandi eru almennar sjálfgefnar óskir eiganda skillsins frá 13. október 2026, ekki nýjar opinberar ásýndarreglur flokksins. Sérstakar óskir notandans ganga alltaf framar þessum sjálfgefnu útfærslum.
+
+- **Snið og myndflötur:** Notaðu sjálfgefið 9:16 fyrir stuttar samfélagsmiðlaklippur og láttu myndina fylla rammann. Ekki setja litla landslagsmynd inn í stórt grafískt spjald með fyrirsögnum, borðum og miklu auðu plássi.
+- **Hóflegur skurður:** Hafðu ræðumann vel sýnilegan, yfirleitt með andlit og efri hluta búks í mynd. Ekki stækka óþarflega mikið. Varðveittu skerpu og svigrúm fyrir eðlilegar hreyfingar. Aðlagaðu skurð að hverjum ræðumanni og myndavélarskiptum; notaðu stöðugan skurð þegar hann dugar.
+- **Lítil merking:** Notaðu lítið, upprunalegt flokksmerki á hentugum stað þar sem það truflar hvorki ræðumann né textun. Ekki bæta sjálfkrafa við stórum merkjum, föstum nafnaborðum, titilspjöldum eða lituðum römmum.
+- **Enginn óumbeðinn aukatexti:** Ekki bæta við slagorðum, pólitískri túlkun, samantektum eða skýringartextum nema þess sé óskað. Beiðni um ásýnd flokksins er ekki beiðni um ný skilaboð. Sjálfgefin textun hér að neðan endurspeglar aðeins talið.
+- **Skjátextar:** Textaðu íslenskt tal sjálfgefið á íslensku. Notaðu raunverulegt [Roboto Bold](../assets/fonts/Roboto-Bold.ttf) úr pakkanum, hvítan texta með skýrum svörtum útlínum (stroke), yfirleitt í einni eða tveimur línum. Staðsettu textann þannig að hann hylji ekki andlit og lendi ekki undir viðmóti samfélagsmiðla. Aðlagaðu stærð, línuskipti og tímasetningar að læsileika á síma.
+- **Trú textun og klipping:** Yfirfarðu umritun gegn hljóðinu, sérstaklega sérnöfn, tölur og tímasetningar. Ekki giska á óljós orð eða breyta merkingu til að gera textann liprari. Ef orð verður ekki skilið eftir endurhlustun skaltu merkja óvissuna í yfirferð og fá skýringu áður en það er sett fram sem staðfestur texti. Varðveittu samhengi og mikilvæga fyrirvara í talinu.
+- **Lokayfirferð:** Skoðaðu útflutning við upphaf, samskeyti, hreyfingar og lok. Staðfestu að ræðumaður haldist innan rammans, texti sé læsilegur á síma og hljóð og mynd haldist saman.
+
+Ekki festa tiltekin skurðarhnit, myndbandslengd eða leturstærð úr einni klippu sem algilda reglu. Veldu þau út frá myndefninu og birtingunni hverju sinni.
+
+### Aðrar myndbandsútfærslur og sameiginleg vinnubrögð
+
+- Settu umbeðna titla, merki og auglýsingaspjöld saman sem raunveruleg grafíklög og hreyfðu þau í klippingu eða hreyfigrafík. Story/Reel er ekki undanþága frá banni við að láta myndlíkan teikna auglýsinguna.
+- Þegar óskað er eftir fyrirsögnum eða grafískum spjöldum má nota Roboto Bold/Black fyrir stuttar fyrirsagnir og Nótt sem læsilegan grunn. Sól getur dregið fram lykiltölu eða fá lykilorð. Þetta bætir ekki slíkum spjöldum sjálfkrafa við ræðubrot.
+- Virtu beiðni um tímabundinn titil. Ef titill á að hverfa með innskoti þarf bæði texti og bakgrunnur hans að fara út á sama tíma. Ekki skilja tóma skyggingu eða borða eftir.
+- Fyrir önnur myndbönd en samfélagsmiðlaklippur og ræðubrot skaltu ekki bæta við föstum nafnaborða eða vatnsmerki án ástæðu í verkefninu. Ekki fela innbrenndan texta upptöku með nýjum borða eftir að notandi hefur óskað eftir að borðinn sé tekinn út. Upplýstu stutt ef upprunalegi textinn verður sýnilegur.
 - Greindu innbrenndan skjátexta frá yfirlagi sem þú stjórnar. Við stærra hreinsunarverkefni þarf að meta upprunaskrá eða aðra myndlausn; venjulegur útskurður getur ekki fjarlægt texta sem liggur yfir manneskju.
-- Heimildarskjal má renna inn sem óbreytt blað með mjúkum skugga. Notaðu ásýnd í umgjörð og skýringartexta, ekki með því að endurhanna heimildina.
+- Þegar óskað er eftir innskoti heimildarskjals má það renna inn sem óbreytt blað með mjúkum skugga. Notaðu ásýnd í umgjörð og umbeðnum skýringartexta, ekki með því að endurhanna heimildina.
 - Haltu talröksemd heilli yfir klippingar. Athugaðu sérstaklega hvað „það“, „þetta“ og „þá“ vísa til eftir að fyrri setning hefur verið fjarlægð. Ekki bæta tilbúnum orðum í munn ræðumanns.
-- Skoðaðu upphaf, samskeyti, hreyfingar, texta og lok. Staðfestu einnig lengd, hlutföll, hljóð/mynd og að skráin afkóðist eðlilega.
+- Staðfestu einnig lengd og hlutföll útflutnings og að skráin afkóðist eðlilega.
 
 ## Vefir
 
