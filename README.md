@@ -2,6 +2,9 @@
 
 Skill fyrir myndbandsklippingu, íslenska textun og ásýnd Miðflokksins í myndum, myndböndum, vefjum og öðru efni. Myndbandsverkhlutinn fylgir með í sama pakka; ekki þarf að setja upp annað skill.
 
+> [!IMPORTANT]
+> Ekki reyna að klippa eða gera myndir í síma eða vafra. Notaðu forrit sem þú sækir í tölvuna þína, hvort sem það er Claude Desktop eða ChatGPT desktop/Codex.
+
 ## Uppsetning
 
 Láttu gervigreindina þína fá þessi skilaboð:
