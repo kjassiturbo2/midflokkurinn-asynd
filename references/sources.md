@@ -10,3 +10,5 @@ Skoðað 8. október 2026.
 Tillögur um stærðir í myndböndum, pláss utan um merki, hreyfingu og útfærslu eftir miðli eru hagnýtt hönnunarmat. Þær eru merktar sem slíkar í viðeigandi tilvísun og mega víkja fyrir fyrirmælum notandans.
 
 Myndbandsverkhlutinn í video.md byggir á yfirförnu klippiverkefni og beiðni eiganda 13. október 2026 um að varðveita lærdóminn fyrir fleiri notendur. Reglur um efnisröð, þéttingu tals, heimildarinnskot og sameiginlegar tímasetningar eru vinnureglur eiganda, ekki opinber ásýndarhandbók. Einstök pólitísk áhersla, nákvæm lengd og skurðarhnit verkefnisins eru ekki almennar reglur.
+
+The retro variant in horsing-around.md ("Horsing Around") is the owner's own design, requested on 14 October 2026 and first built for the Hleri transcription tool. It is not part of the official identity handbook. Its fonts, Archivo and IBM Plex Mono, come from Google Fonts under the SIL Open Font License (texts in assets/horsing-around/fonts/).

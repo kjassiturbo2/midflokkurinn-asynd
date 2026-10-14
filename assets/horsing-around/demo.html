@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="is">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Horsing Around — demo</title>
+<link rel="stylesheet" href="horsing-around.css">
+<script src="horsing-around.js" defer></script>
+<!-- Serve over http (python3 -m http.server); file:// blocks the canvas reads. -->
+<body>
+<header class="band">
+  <canvas class="dither" aria-hidden="true" data-horse="1.25" data-shift=".78" data-top=".06"></canvas>
+  <div class="wrap">
+    <div class="topbar"><a class="brand" href="#"><i></i>XM <small>v1.0</small></a></div>
+    <div class="hero hero-xl"><h1>Tækifærið er <em>núna</em></h1></div>
+  </div>
+</header>
+<main class="wrap">
+  <section class="card lift">
+    <p class="eyebrow">Pills</p>
+    <p style="display:flex;gap:.5rem;flex-wrap:wrap">
+      <span class="pill busy"><span class="spin"></span>Hljóðrita · 42%</span>
+      <span class="pill live"><span class="rec"></span>Bein hljóðritun</span>
+      <span class="pill failed">Mistókst</span>
+      <span class="pill">Lokið</span>
+    </p>
+    <p style="display:flex;gap:.5rem;flex-wrap:wrap"><button>Hljóðrita</button><button class="btn-ghost">Vista</button><button class="btn-danger">Hætta við</button></p>
+  </section>
+  <section class="listen">
+    <canvas data-globe data-progress="42" aria-hidden="true"></canvas>
+    <div>
+      <ol class="stages"><li class="done">Sæki efni</li><li class="done">Einangra hljóð</li><li class="now">Hljóðrita</li><li>Úrvinnsla</li><li>Lokið</li></ol>
+      <div class="big-number"><span id="pct">42</span><small>%</small></div>
+      <!-- demo controls -->
+      <p><input id="progress" type="range" min="0" max="100" value="42" aria-label="progress"> <button id="finish" type="button">finish()</button></p>
+    </div>
+  </section>
+</main>
+<script>
+progress.oninput = () => { pct.textContent = progress.value; HorsingAround.setProgress(progress.value / 100); };
+finish.onclick = () => HorsingAround.finish(() => { pct.textContent = '100'; });
+if (location.hash === '#finish') setTimeout(() => finish.click(), 800); // demo.html#finish plays the morph on load
+</script>
+</body>
+</html>

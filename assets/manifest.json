@@ -640,6 +640,56 @@
       "file": "assets/color-guide.pdf",
       "source": "Litir/miðflokkurinn-litir.pdf",
       "sha256": "4ae5f0d0af9f28efacf095cc4620993052b6e79eceb4c9a869b7b42a146ca64e"
+    },
+    {
+      "file": "assets/horsing-around/demo.html",
+      "source": "Horsing Around kit (built for Hleri, 2026-10-14)",
+      "sha256": "186f74b7afb1d12c8badcde0aa85f72e34e2f0fe0b7ae32a0a48f1f8dfd9be64"
+    },
+    {
+      "file": "assets/horsing-around/fonts/OFL-Archivo.txt",
+      "source": "Google Fonts (SIL Open Font License)",
+      "sha256": "108b4e57c9c796d3d38d0428ca7ee39de47ad93187302718d9b2d8864b9b716b"
+    },
+    {
+      "file": "assets/horsing-around/fonts/OFL-IBMPlexMono.txt",
+      "source": "Google Fonts (SIL Open Font License)",
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    {
+      "file": "assets/horsing-around/fonts/archivo.woff2",
+      "source": "Google Fonts (SIL Open Font License)",
+      "sha256": "4c98b9d490d1698ec95f2ff17a6c7d0e72691864c0c5d7bc2a2c161b45afe5ad"
+    },
+    {
+      "file": "assets/horsing-around/fonts/plex-mono-400.woff2",
+      "source": "Google Fonts (SIL Open Font License)",
+      "sha256": "c36f509c0a8f9f85f29cb44bc8701d8a9e0b14c499e77a884f789ead7093a7ac"
+    },
+    {
+      "file": "assets/horsing-around/fonts/plex-mono-500.woff2",
+      "source": "Google Fonts (SIL Open Font License)",
+      "sha256": "a76f53ca6612e7b3828eec2311098675b7f9849ae4169a8bcef6302aec02a6c0"
+    },
+    {
+      "file": "assets/horsing-around/fonts/plex-mono-600.woff2",
+      "source": "Google Fonts (SIL Open Font License)",
+      "sha256": "ad4580d8cb4b5f627c2d18457656732f7f7b070f7837fbc380e08054157e6f6c"
+    },
+    {
+      "file": "assets/horsing-around/horse.svg",
+      "source": "Merki/Vector/Miðflokkurinn-hestur-hvitur.svg",
+      "sha256": "ada638e77c1f37de4aae10c492180fde1c427abb42abe1d01816dd0e541dfbe1"
+    },
+    {
+      "file": "assets/horsing-around/horsing-around.css",
+      "source": "Horsing Around kit (built for Hleri, 2026-10-14)",
+      "sha256": "31f8c1ae3e8c6d169e3505533454f5ca082e073d1e39404389d46a0699e6aad5"
+    },
+    {
+      "file": "assets/horsing-around/horsing-around.js",
+      "source": "Horsing Around kit (built for Hleri, 2026-10-14)",
+      "sha256": "0787662ad2c2919031192c8f016b5f69cc4f9304f0e714fd7e984d59cd7456da"
     }
   ]
 }

@@ -1,0 +1,82 @@
+/* Horsing Around — Miðflokkurinn's retro variant. Archivo + IBM Plex Mono (OFL), no Roboto.
+   Pair with horsing-around.js. Paths are relative to this file. */
+@font-face{font-family:"Archivo";src:url(fonts/archivo.woff2) format("woff2");font-weight:100 900;font-stretch:62% 125%;font-display:swap}
+@font-face{font-family:"IBM Plex Mono";src:url(fonts/plex-mono-400.woff2) format("woff2");font-weight:400;font-display:swap}
+@font-face{font-family:"IBM Plex Mono";src:url(fonts/plex-mono-500.woff2) format("woff2");font-weight:500;font-display:swap}
+@font-face{font-family:"IBM Plex Mono";src:url(fonts/plex-mono-600.woff2) format("woff2");font-weight:600;font-display:swap}
+
+:root{
+  --nott:#0f234c;--haf:#013954;--himinn:#6296bc;--eldur:#892222;--sol:#dbb765;--mold:#382e2d;
+  --page:#fafbfc;--text:#3d4250;--muted:#6b6f78;--border:#cecece;--hair:#e8e8e8;
+  --sans:"Archivo",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace;--r:5px;
+}
+*{box-sizing:border-box}
+html{-webkit-font-smoothing:antialiased}
+body{margin:0;background:var(--page);color:var(--text);font:400 16px/1.6 var(--sans)}
+a{color:var(--nott);text-underline-offset:3px}
+h1,h2,h3{color:var(--nott);margin:0 0 .6rem}
+h1{font-weight:900;font-stretch:72%;text-transform:uppercase;letter-spacing:-.01em;line-height:.95;overflow-wrap:anywhere}
+h2{font-weight:800;font-stretch:80%;font-size:1.9rem;line-height:1.05;letter-spacing:-.01em}
+h1 em{font-style:normal;color:var(--sol)} /* the one gold word */
+.wrap{max-width:1120px;margin:auto;padding:0 1.5rem}
+.mono,.eyebrow{font-family:var(--mono)}
+.eyebrow{font-weight:500;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 .5rem}
+
+/* Band: Nótt field; horsing-around.js draws the dithered horse into canvas.dither */
+.band{position:relative;background:var(--nott);color:#fff;overflow:hidden;isolation:isolate}
+.band canvas.dither{position:absolute;inset:0;width:100%;height:100%;image-rendering:pixelated;z-index:-1}
+.band h1{color:#fff}
+.band .eyebrow{color:var(--himinn)}
+.band p{color:rgba(255,255,255,.75)}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:1rem;padding:1.1rem 0;flex-wrap:wrap}
+.brand{display:flex;align-items:baseline;gap:.6rem;color:#fff;text-decoration:none;font-weight:900;font-stretch:72%;font-size:1.5rem;letter-spacing:.06em}
+.brand i{width:.55rem;height:.55rem;background:var(--sol);display:inline-block}
+.brand small{font:500 11px var(--mono);letter-spacing:0;color:var(--himinn)}
+.band nav{display:flex;gap:1.6rem;flex-wrap:wrap}
+.band nav a{color:#fff;text-decoration:none;font-weight:700;font-size:14px}
+.band nav a:hover,.band nav a[aria-current]{color:var(--sol)}
+.hero{padding:1rem 0 2.4rem}
+.hero h1{font-size:clamp(2.2rem,5vw,4rem);max-width:22ch}
+.hero-xl{padding:3.2rem 0 7.5rem}
+.hero-xl h1{font-size:clamp(3rem,8.5vw,6.6rem);max-width:none}
+
+/* Cards and buttons */
+.card{color:var(--text);background:#fff;border:1px solid var(--hair);border-radius:var(--r);padding:1.6rem;margin:1.5rem 0;box-shadow:0 18px 40px -28px rgba(15,35,76,.35)}
+.lift{margin-top:-5.5rem;position:relative} /* overlaps a .hero-xl band */
+button,.btn{display:inline-flex;align-items:center;justify-content:center;gap:.55rem;min-height:40px;padding:5px 20px;border:0;border-radius:var(--r);background:var(--nott);color:var(--sol);font:600 15px var(--sans);cursor:pointer;text-decoration:none;transition:background .15s,color .15s,transform .08s}
+button:hover,.btn:hover{background:var(--eldur);color:#fff}
+button:active,.btn:active{transform:translateY(1px) scale(.98)}
+.btn-ghost{background:transparent;color:var(--nott);box-shadow:inset 0 0 0 1.5px var(--nott)}
+.btn-ghost:hover{background:var(--nott);color:#fff}
+.btn-danger{background:var(--eldur);color:#fff}
+.btn-danger:hover{background:var(--mold)}
+:is(a,button,summary):focus-visible{outline:2px solid var(--nott);outline-offset:3px}
+.band :is(a,button):focus-visible,.listen :is(a,button):focus-visible{outline-color:var(--sol)}
+
+/* Pills, the blinking dot, the spinning horse */
+.pill{font:500 12px var(--mono);white-space:nowrap;display:inline-flex;align-items:center;gap:.5rem;padding:.25rem .7rem;border-radius:999px;color:var(--nott);border:1px solid var(--hair);background:var(--page)}
+.pill.busy{color:var(--sol);background:var(--nott);border-color:var(--nott)}
+.pill.live{color:#fff;background:var(--eldur);border-color:var(--eldur)}
+.pill.live .rec{background:#fff}
+.pill.failed{color:var(--eldur);border-color:#e9cccc;background:#fbf3f3}
+.rec{width:.55rem;height:.55rem;border-radius:50%;background:var(--eldur);flex:none;animation:ha-blink 1.4s steps(2,jump-none) infinite}
+.spin{width:22px;height:22px;margin:-4px -.1rem -4px -.35rem;flex:none;background:currentColor;-webkit-mask:url(horse.svg) center/contain no-repeat;mask:url(horse.svg) center/contain no-repeat;animation:ha-spin 1.8s linear infinite}
+@keyframes ha-blink{50%{opacity:.25}}
+@keyframes ha-spin{to{transform:rotate(-360deg)}}
+
+/* Listening panel: globe + terminal stage list + big mono number */
+.listen{display:grid;grid-template-columns:minmax(0,340px) 1fr;gap:2.5rem;align-items:center;background:var(--nott);border-radius:var(--r);padding:1.5rem 2.5rem;margin:2rem 0;color:#fff}
+.listen canvas{width:100%;aspect-ratio:1;display:block}
+.listen p{color:rgba(255,255,255,.7);font-size:14px;max-width:42ch}
+.stages{list-style:none;margin:0 0 1.4rem;padding:0;font:400 14px/2 var(--mono);color:rgba(255,255,255,.4)}
+.stages li::before{content:"[ ] ";white-space:pre}
+.stages li.done{color:rgba(255,255,255,.75)}
+.stages li.done::before{content:"[x] ";color:var(--himinn)}
+.stages li.now{color:var(--sol)}
+.stages li.now::before{content:"[>] "}
+.stages li.now::after{content:"";display:inline-block;width:.6em;height:1.05em;background:var(--sol);vertical-align:-3px;margin-left:.4em;animation:ha-blink 1s steps(2,jump-none) infinite}
+.big-number{font:600 clamp(3rem,7vw,5.2rem)/1 var(--mono);color:#fff;letter-spacing:-.04em;margin-bottom:.4rem}
+.big-number small{font-size:.4em;color:var(--himinn);margin-left:.15em}
+
+@media(max-width:760px){.wrap{padding:0 1rem}.listen{grid-template-columns:1fr;padding:1.5rem}.hero-xl{padding-top:2rem}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}

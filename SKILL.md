@@ -1,6 +1,6 @@
 ---
 name: midflokkurinn-asynd
-description: Create and edit Miðflokkurinn-branded videos and visual materials. For video and speech clips, select and sequence excerpts, tighten pauses, reframe, subtitle Icelandic speech, and add requested source-document inserts while preserving meaning. Use real typography and supplied brand assets. Use when this skill or Miðflokkurinn branding is requested; a mere mention of the party does not trigger it.
+description: Create and edit Miðflokkurinn-branded videos and visual materials. For video and speech clips, select and sequence excerpts, tighten pauses, reframe, subtitle Icelandic speech, and add requested source-document inserts while preserving meaning. Use real typography and supplied brand assets. Use when this skill or Miðflokkurinn branding is requested; a mere mention of the party does not trigger it. Also holds an opt-in retro variant, Horsing Around (dithered horse, ASCII progress globe, Archivo + IBM Plex Mono), used only when asked for "retro Miðflokkurinn", "horsing around", "the dithered horse" or "the Hleri look".
 ---
 
 # Ásýnd Miðflokksins
@@ -17,6 +17,7 @@ Samræmdu umbeðið efni ásýnd Miðflokksins. Skillinn geymir liti, letur og u
 - Fyrir klippingu myndbanda og ræðubrota skaltu lesa [myndbandsverkhlutann](references/video.md): efnisval og röð, þétting tals, skurður, íslensk textun, heimildarinnskot, samstilling og lokayfirferð. Verkhlutinn er hluti af þessu skilli og krefst ekki annars skills. Sérstakar óskir notanda ganga framar sjálfgefnum vinnureglum.
 - Fyrir myndir eða vefi skaltu lesa viðeigandi kafla í [miðlaleiðbeiningunum](references/media.md).
 - Nákvæm stílgildi eru í [assets/tokens.json](assets/tokens.json). Vefstílar og staðbundnar leturvísanir eru í [assets/brand.css](assets/brand.css).
+- Retro variant (opt-in, English reference): only when the user asks for "retro Miðflokkurinn", "horsing around", "the dithered horse" or "the Hleri look", read [horsing-around.md](references/horsing-around.md). The kit is in assets/horsing-around/.
 - Veldu raunverulegt merki úr [eignayfirlitinu](references/assets.md). Allar eignir eru innifaldar í skillinum; ekki byggja á því að upprunamappan sé áfram á sama stað.
 
 ## Kjarni ásýndarinnar
