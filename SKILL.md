@@ -1,6 +1,6 @@
 ---
 name: midflokkurinn-asynd
-description: Create and edit Miðflokkurinn-branded videos and visual materials. For video and speech clips, select and sequence excerpts, tighten pauses, reframe, subtitle Icelandic speech, and add requested source-document inserts while preserving meaning. Use real typography and supplied brand assets. Use when this skill or Miðflokkurinn branding is requested; a mere mention of the party does not trigger it. Also holds an opt-in retro variant, Horsing Around (dithered horse, ASCII progress globe, Archivo + IBM Plex Mono), used only when asked for "retro Miðflokkurinn", "horsing around", "the dithered horse" or "the Hleri look".
+description: Create and edit Miðflokkurinn-branded videos and visual materials. For video and speech clips, select and sequence excerpts, tighten pauses, reframe, subtitle Icelandic speech, and add requested source-document inserts while preserving meaning. Use real typography and supplied brand assets. Use when this skill or Miðflokkurinn branding is requested; a mere mention of the party does not trigger it. Also holds an opt-in retro variant, Horsing Around (dithered horse, a tölting ASCII horse under a rising Eldur sun, Archivo + IBM Plex Mono), used only when asked for "retro Miðflokkurinn", "horsing around", "the dithered horse" or "the Hleri look".
 ---
 
 # Ásýnd Miðflokksins

@@ -64,9 +64,9 @@ button:active,.btn:active{transform:translateY(1px) scale(.98)}
 @keyframes ha-blink{50%{opacity:.25}}
 @keyframes ha-spin{to{transform:rotate(-360deg)}}
 
-/* Listening panel: globe + terminal stage list + big mono number */
-.listen{display:grid;grid-template-columns:minmax(0,340px) 1fr;gap:2.5rem;align-items:center;background:var(--nott);border-radius:var(--r);padding:1.5rem 2.5rem;margin:2rem 0;color:#fff}
-.listen canvas{width:100%;aspect-ratio:1;display:block}
+/* Listening panel: the tölting horse + terminal stage list + big mono number */
+.listen{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(220px,1fr);gap:2.5rem;align-items:center;background:var(--nott);border-radius:var(--r);padding:1.5rem 2.5rem;margin:2rem 0;color:#fff}
+.listen canvas{width:100%;aspect-ratio:16/10;display:block}
 .listen p{color:rgba(255,255,255,.7);font-size:14px;max-width:42ch}
 .stages{list-style:none;margin:0 0 1.4rem;padding:0;font:400 14px/2 var(--mono);color:rgba(255,255,255,.4)}
 .stages li::before{content:"[ ] ";white-space:pre}

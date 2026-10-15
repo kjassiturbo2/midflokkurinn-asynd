@@ -12,3 +12,5 @@ Tillögur um stærðir í myndböndum, pláss utan um merki, hreyfingu og útfæ
 Myndbandsverkhlutinn í video.md byggir á yfirförnu klippiverkefni og beiðni eiganda 13. október 2026 um að varðveita lærdóminn fyrir fleiri notendur. Reglur um efnisröð, þéttingu tals, heimildarinnskot og sameiginlegar tímasetningar eru vinnureglur eiganda, ekki opinber ásýndarhandbók. Einstök pólitísk áhersla, nákvæm lengd og skurðarhnit verkefnisins eru ekki almennar reglur.
 
 The retro variant in horsing-around.md ("Horsing Around") is the owner's own design, requested on 14 October 2026 and first built for the Hleri transcription tool. It is not part of the official identity handbook. Its fonts, Archivo and IBM Plex Mono, come from Google Fonts under the SIL Open Font License (texts in assets/horsing-around/fonts/).
+
+On 15 October 2026 the owner replaced the variant's progress globe with a tölting Icelandic horse and approved, for that animation only, an exception to never redrawing the horse: the brand horse's head, neck, mane, body and tail are kept and its legs are drawn.

@@ -644,7 +644,7 @@
     {
       "file": "assets/horsing-around/demo.html",
       "source": "Horsing Around kit (built for Hleri, 2026-10-14)",
-      "sha256": "186f74b7afb1d12c8badcde0aa85f72e34e2f0fe0b7ae32a0a48f1f8dfd9be64"
+      "sha256": "9407fcdf9962b7be8cec1370ee1901a675dbac9fa36986b9afc817144e1749ba"
     },
     {
       "file": "assets/horsing-around/fonts/OFL-Archivo.txt",
@@ -684,12 +684,12 @@
     {
       "file": "assets/horsing-around/horsing-around.css",
       "source": "Horsing Around kit (built for Hleri, 2026-10-14)",
-      "sha256": "31f8c1ae3e8c6d169e3505533454f5ca082e073d1e39404389d46a0699e6aad5"
+      "sha256": "69554fb87279ba301c0a2abe9639d272e35655ab56123b47da42095d4bbebff1"
     },
     {
       "file": "assets/horsing-around/horsing-around.js",
       "source": "Horsing Around kit (built for Hleri, 2026-10-14)",
-      "sha256": "0787662ad2c2919031192c8f016b5f69cc4f9304f0e714fd7e984d59cd7456da"
+      "sha256": "9294527ea6fc65f52a7671dad3f81d238698b117e3ac93a0a4f5eac8ff866d47"
     }
   ]
 }
