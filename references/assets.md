@@ -24,3 +24,5 @@ Allar slóðir miðast við rót skillsins. SVG og PNG útgáfur merkjanna hafa 
 Íslensk skráarheiti í regional og social geta verið Unicode NFD. Notaðu skráaleit og raunverulegar slóðir í stað þess að giska á stafsetningu eða form hreimstafa.
 
 [assets/manifest.json](../assets/manifest.json) tengir öll afrit við upprunaleg heiti og varðveitir SHA-256 fyrir heilleikaprófun. Ekki endurgera kjördæmismerki með texta þegar rétt útgáfa er þegar til.
+
+Poppins ExtraBold og OFL-leyfi í `assets/fonts/` fylgja valkostinum [veed-texti](veed-texti.md).

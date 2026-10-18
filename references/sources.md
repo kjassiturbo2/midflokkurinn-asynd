@@ -14,3 +14,7 @@ Myndbandsverkhlutinn í video.md byggir á yfirförnu klippiverkefni og beiðni 
 The retro variant in horsing-around.md ("Horsing Around") is the owner's own design, requested on 14 October 2026 and first built for the Hleri transcription tool. It is not part of the official identity handbook. Its fonts, Archivo and IBM Plex Mono, come from Google Fonts under the SIL Open Font License (texts in assets/horsing-around/fonts/).
 
 On 15 October 2026 the owner replaced the variant's progress globe with a tölting Icelandic horse and approved, for that animation only, an exception to never redrawing the horse: the brand horse's head, neck, mane, body and tail are kept and its legs are drawn.
+
+## Orðbundin textun og mjúkur skurður — 18. október 2026
+
+Eigandi valdi „veed-texti“ úr eigin Veed-myndbandi og samþykktu grátt → hvítt sýnishorni. [Stíllinn](veed-texti.md) er valkostur, ekki opinber vörumerkjaregla. Eigandi óskaði jafnframt eftir samfelldum, mjúkum rammafærslum yfir klippimörk. Poppins-letur kemur úr uppsettri leturskrá eiganda; OFL-leyfi frá [Google Fonts](https://github.com/google/fonts/tree/main/ofl/poppins).

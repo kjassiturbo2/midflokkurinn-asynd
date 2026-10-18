@@ -29,8 +29,11 @@ Lestu þessa skrá þegar klippa á myndband eða ræðubrot með midflokkurinn-
 
 - Notaðu 9:16 fyrir stutt samfélagsmiðlaræðubrot nema annað sé beðið um. Láttu myndefnið fylla rammann, með ræðumann í aðalhlutverki.
 - Veldu hóflegan skurð sem sýnir andlit og efri hluta búks, varðveitir skerpu og leyfir hreyfingar. Skoðaðu alla valda kafla, líka þegar ræðumaður hallar sér eða snýr sér. Stöðugur skurður er góður þegar hann dugar; bættu ekki við sífelldum innstækkunum án ástæðu.
+- Þegar rammi fylgir hreyfingu skaltu meta samfellda hreyfingu yfir klippimörk. Ekki endurstilla skurðarhnit skyndilega við hvert stytt talhlé. Mýktu ferilinn yfir mörk innan sama sjónarhorns og skoðaðu hraða og stefnu beggja vegna. Haus í miðju tryggir ekki góða myndbyggingu; skoðaðu líka augnlínu, hendur, stellingu og fætur í víðari mynd.
+- Greindu stafræna rammafærslu frá raunverulegum myndavélaskiptum. Ekki pönna skurðinum milli ósamstæðra sjónarhorna. Þegar beðið er um mjúk myndskipti skaltu prófa stutta myndmýkingu án þess að færa tal eða texta úr takti; skoðaðu hvort tvöföld andlit eða kyrrstæðir rammar trufli. Ekki gera löng uppleysingarskipti að skyldu.
 - Hafðu lítið upprunalegt merki þar sem það truflar hvorki andlit né textun. Ekki bæta sjálfkrafa við stórum römmum, nafnaborðum, slagorðum, samantektum eða titilspjöldum.
 - Textaðu íslenskt tal á íslensku með meðfylgjandi Roboto Bold, hvítum texta og skýrum svörtum útlínum. Notaðu yfirleitt eina eða tvær línur, læsilegar á síma og utan svæðis sem viðmót birtingarmiðilsins hylur. Mældu línur með raunverulegu letri.
+- Valinn stíll **[veed-texti](veed-texti.md)** notar Poppins ExtraBold og lýsir upp orð grátt → hvítt. Hann yfirtekur venjulegu textastillinguna í viðkomandi verkefni.
 - Greindu innbrenndan upprunatexta frá yfirlagi sem þú stjórnar. Ekki fela hann með nýjum borða þegar óskað hefur verið eftir minni umgjörð. Veldu skurð eða hreinsun út frá myndefninu; athugaðu sérstaklega hvort hreinsun aflögir eða mýkir andlit, hendur eða föt.
 - Ekki festa stærðir, skurðarhnit, lengd eða tímasetningu úr einni klippu sem almenn gildi.
 
