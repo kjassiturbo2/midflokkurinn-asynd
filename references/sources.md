@@ -18,3 +18,9 @@ On 15 October 2026 the owner replaced the variant's progress globe with a tölti
 ## Orðbundin textun og mjúkur skurður — 18. október 2026
 
 Eigandi valdi „veed-texti“ úr eigin Veed-myndbandi og samþykktu grátt → hvítt sýnishorni. [Stíllinn](veed-texti.md) er valkostur, ekki opinber vörumerkjaregla. Eigandi óskaði jafnframt eftir samfelldum, mjúkum rammafærslum yfir klippimörk. Poppins-letur kemur úr uppsettri leturskrá eiganda; OFL-leyfi frá [Google Fonts](https://github.com/google/fonts/tree/main/ofl/poppins).
+
+## Viðmót yfir myndbandi — 19. október 2026
+
+Skjáskot eiganda af birtri Bókun 35 klippu sýndi að heiti reiknings, prófílmynd og stýringar huldu merki og upphafstitil við efri brún. Eigandi bað um lagfæringu og lærdóm fyrir skillið. Viðbótin í video.md krefst mats á sýnileika allrar grafíkur í viðkomandi birtingu; hún skilgreinir ekki almenn föst örugg svæði.
+
+Eigandi hafnaði síðan færslu merkis og titils niður að skjátexta og óskaði þess að þau yrðu aðeins neðar en í samþykktri v4-uppsetningu. Leiðbeiningarnar voru leiðréttar sama dag: varðveita samþykkta myndbyggingu og byrja á minnstu færslu sem leysir áreksturinn.

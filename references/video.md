@@ -37,6 +37,13 @@ Lestu þessa skrá þegar klippa á myndband eða ræðubrot með midflokkurinn-
 - Greindu innbrenndan upprunatexta frá yfirlagi sem þú stjórnar. Ekki fela hann með nýjum borða þegar óskað hefur verið eftir minni umgjörð. Veldu skurð eða hreinsun út frá myndefninu; athugaðu sérstaklega hvort hreinsun aflögir eða mýkir andlit, hendur eða föt.
 - Ekki festa stærðir, skurðarhnit, lengd eða tímasetningu úr einni klippu sem almenn gildi.
 
+## Grafík og viðmót birtingarmiðils
+
+- Metið allt yfirlag gagnvart viðmóti birtingarmiðils: merki, titla, heimildartexta og skjátexta. Efri brún getur farið undir prófílmynd, heiti reiknings eða spilunarstýringar; neðri og hægri brún undir lýsingu og aðgerðarhnappa. Frítt svæði í hreinni myndbandsskrá tryggir ekki sýnileika við birtingu.
+- Notaðu skjáskot notanda eða núverandi forsýningu viðkomandi birtingar til að ákvarða pláss. Ekki kalla eina fasta pixlarönd örugga fyrir alla miðla, tæki og birtingarhætti. Staðfestu nýjustu viðmið miðils ef nákvæm mörk eru nauðsynleg.
+- Við árekstur við viðmót skaltu byrja á minnstu færslu sem leysir hann og varðveita samþykkta myndbyggingu. Ef merki og titill eru efst skaltu fyrst prófa að færa þau lítillega niður með sömu stærð og láréttri staðsetningu. Ekki færa þau sjálfkrafa niður að skjátexta eða gera smáleiðréttingu að endurhönnun. Skoðaðu færsluna gagnvart andliti og viðmóti í raunverulegum römmum.
+- Skoðaðu lokaútflutning með viðmótsyfirlagi, eða skýrt merktri eftirlíkingu þess, við upphaf, eftir að titill hverfur og við breytt sjónarhorn. Geymdu staðsetningar með verkefnisgögnum. Aðskildu raunverulega birtingarprófun frá áætlaðri staðsetningu; ekki fullyrða að allir samfélagsmiðlar hafi verið prófaðir.
+
 ## Heimildarskjal á skjá
 
 Þegar óskað er eftir skjalainnskoti eða það þjónar skýrt umbeðnu verkefni:
