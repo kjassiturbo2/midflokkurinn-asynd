@@ -32,3 +32,7 @@ Eigandi ákvað að „veed-texti“ yrði sjálfgefin textun klippa og að Robo
 ## Aðvörun í síma og vafra — 21. október 2026
 
 Eigandi bað um aðvörun þegar skillið er notað í síma eða vafra fyrir verk sem best eru unnin í tölvuforriti, eftir að notendur í vafra fengu myndlíkansmyndir. Orðalagið byggir á staðfestum takmörkunum (stærðarmörk viðhengja á claude.ai, um 30 MB á skrá samkvæmt hjálparsíðu Anthropic; mögulegri umbreytingu í myndvali síma), ekki á þeirri almennu ályktun að vafrar þjappi upphlöðnum skrám, sem stenst ekki.
+
+## Umbrot kyrrmynda — 21. október 2026
+
+Eigandi sendi auglýsingu fyrir Hafnarfjörð sem gerð var með skillinu og sagði hana illa uppsetta. Greiningin sýndi að skillið hafði aðeins framleiðslureglur, ekki umbrotsreglur. [Umbrotsleiðbeiningarnar](layout.md) byggja á almennum reglum grafískrar hönnunar (stigveldi, nálægð, sjónræn miðja) og birtum leiðbeiningum um birtingarsvæði, t.d. [Buffer um 3:4 prófílnet Instagram](https://buffer.com/resources/instagram-grid/) og [Billo um birtingarsvæði Meta](https://billo.app/blog/meta-ads-safe-zones). Eigandi samþykkti þær sem leiðbeiningar, ekki skyldu, og óskaði þess að heimilt sé að spyrja notandann eða skila tveimur útfærslum.

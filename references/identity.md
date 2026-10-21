@@ -41,6 +41,6 @@ Vefurinn notar líka hlutlausu litina #FAFBFC, #4e4e4e, #979797, #cecece og #e8e
 Þessar leiðbeiningar eru hönnunarmat fyrir endurnotkun, ekki reglur úr afhentri handbók:
 
 - Láttu Nótt, hvítt og fáar Sól-áherslur bera framsetninguna. Ekki dreifa öllum sjö litunum jafnt um hönnunina.
-- Veldu skýra leturstigskiptingu og rúmt bil fremur en marga ramma og skraut.
+- Veldu skýra leturstigskiptingu fremur en marga ramma og skraut. Flokkaðu saman það sem á saman; bil milli hópa er stærra en bil innan þeirra. Sjá [umbrotsleiðbeiningarnar](layout.md).
 - Gefðu merkinu nægilegt óskert svæði í kring. Engin tölusett opinber lágmarksstærð eða friðhelgissvæði fylgdi gögnunum; ekki búa slíka reglu til og kalla hana opinbera.
 - Veldu hvít merki á dökkum bakgrunni og blá merki á ljósum. Notaðu hringútgáfu eða xM-fleka þegar ljósmynd er of óróleg fyrir gegnsæja útgáfu.
