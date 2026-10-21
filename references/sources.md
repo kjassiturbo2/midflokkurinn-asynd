@@ -28,3 +28,7 @@ Eigandi hafnaði síðan færslu merkis og titils niður að skjátexta og óska
 ## Veed-texti sjálfgefinn — 21. október 2026
 
 Eigandi ákvað að „veed-texti“ yrði sjálfgefin textun klippa og að Roboto-textun yrði aðeins notuð ef notandi biður sérstaklega um hana. Breytingin nær aðeins til textunar myndbanda; Roboto er áfram aðalletur annarrar ásýndar.
+
+## Aðvörun í síma og vafra — 21. október 2026
+
+Eigandi bað um aðvörun þegar skillið er notað í síma eða vafra fyrir verk sem best eru unnin í tölvuforriti, eftir að notendur í vafra fengu myndlíkansmyndir. Orðalagið byggir á staðfestum takmörkunum (stærðarmörk viðhengja á claude.ai, um 30 MB á skrá samkvæmt hjálparsíðu Anthropic; mögulegri umbreytingu í myndvali síma), ekki á þeirri almennu ályktun að vafrar þjappi upphlöðnum skrám, sem stenst ekki.

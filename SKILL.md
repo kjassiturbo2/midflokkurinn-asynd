@@ -11,6 +11,14 @@ Samræmdu umbeðið efni ásýnd Miðflokksins. Skillinn geymir liti, letur og u
 
 Áður en þú notar ásýndarreglurnar skaltu athuga hvort ný útgáfa sé á GitHub samkvæmt [uppfærsluleiðbeiningunum](references/updates.md). Gerðu þetta við hverja nýja virkjun skillsins, líka í nýju verkefni innan sama samtals; ekki fyrir hverja smáleiðréttingu í yfirstandandi verkefni. Sæktu nýrri útgáfu þegar umhverfið leyfir og lestu uppfærðar leiðbeiningar áður en þú heldur áfram. Ef athugunin tekst ekki skaltu segja það stuttlega og nota uppsettu reglurnar, án þess að fullyrða að þær séu nýjustu reglurnar.
 
+## Vinnuumhverfi — aðvörun í síma eða vafra
+
+Skillinn er hugsaður fyrir vinnu í forriti á tölvu notandans (t.d. Claude Desktop, Claude Code eða ChatGPT desktop/Codex), þar sem upprunaskrár eru lesnar beint af disknum og unnar með FFmpeg og raunverulegum leturskrám. Metið umhverfið áður en framleiðsla hefst: ef notandi segist vera í síma eða vafra, eða ef þú hefur engan aðgang að skrám á tölvu notandans heldur aðeins viðhengi í samtali, skaltu vara við áður en þú byrjar.
+
+- **Myndband:** Segðu að gæðin geti orðið verri en í tölvuforriti. Ástæðurnar eru raunverulegar en ekki sjálfgefnar: viðhengi hafa stærðarmörk (á claude.ai um 30 MB á skrá), svo notandi þarf oft að þjappa eða stytta upptöku áður en hún er send; myndavalið í sumum símum getur umbreytt eða þjappað myndbandi við sendingu; og útkomuna þarf að sækja aftur úr samtalinu. Ekki fullyrða að vafrinn sjálfur þjappi skrám við upphleðslu — það er ekki almennt rétt.
+- **Grafík:** Í vafra eða síma er hún aðeins í lagi ef þú getur keyrt kóða og lesið leturskrár og merki úr assets/. Getirðu það ekki gildir [framleiðslureglan](#framleiðsluregla--samsett-grafík-ekki-myndlíkan): engin myndlíkansútgáfa.
+- Orðaðu aðvörunina í einni eða tveimur setningum og mæltu með tölvuforriti. Ef notandi vill halda áfram skaltu vinna verkið, nota upprunalegu skrána óþjappaða ef hún er tiltæk, skoða upplausn, rammatíðni og bitahraða aðsendrar skrár með ffprobe og segja frá því ef hún er sjáanlega þjöppuð eða smækkuð. Ekki fullyrða að útkoman jafnist á við vinnslu á tölvu.
+
 ## Veldu réttan grunn
 
 - Lestu [ásýndarreglurnar](references/identity.md) áður en þú hannar. Þar eru opinberar litareglur aðgreindar frá athugunum á vefnum og tillögum að útfærslu.
