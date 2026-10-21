@@ -1,6 +1,8 @@
 # veed-texti — orð lýsast upp í takt við tal
 
-Valfrjáls textunarstíll sem eigandi valdi 18. október 2026 eftir samanburð við sitt Veed-myndband. Notaðu þegar notandi biður um „veed-texta“ eða hefur valið þennan stíl í verkefninu. Þetta er ekki breyting á almennu vörumerkjaletri. Venjuleg Roboto-textun er áfram valkostur.
+Sjálfgefinn textunarstíll klippa og ræðubrota frá 21. október 2026. Eigandi valdi stílinn 18. október 2026 eftir samanburð við sitt Veed-myndband og gerði hann að sjálfgefnu vali 21. október. Notaðu hann nema notandi biðji sérstaklega um Roboto-textun; þá gildir Roboto-stillingin í [video.md](video.md). Þetta er ekki breyting á almennu vörumerkjaletri; Roboto er áfram aðalletur í fyrirsögnum, meginmáli og annarri grafík.
+
+Ef ekki er hægt að fá nothæfa orðtíma (t.d. engin talgreining með orðatímum og ekki hægt að yfirfara þá) skaltu segja það og spyrja hvort nota eigi Roboto-textun; ekki skipta hljóðlaust yfir í annan stíl.
 
 ## Útlit og hreyfing
 
