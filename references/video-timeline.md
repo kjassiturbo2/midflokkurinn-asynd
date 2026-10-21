@@ -51,6 +51,6 @@ Skiptu dæmislóðunum út fyrir raunverulegar slóðir verkefnis. Ekki gera rá
 Forritið skrifar:
 
 - `timeline.json`: upprunatímar, tímar í lokaútgáfu, lengd og endurtímasett textun.
-- `subtitles.srt`: UTF-8 textun í nýrri röð. SRT geymir ekki ásýnd; myndbandsvinnslan þarf að nota Roboto Bold, hvítt letur og svartar útlínur samkvæmt video.md.
+- `subtitles.srt`: UTF-8 textun í nýrri röð. SRT geymir hvorki ásýnd né orðtíma. Sjálfgefinn [veed-texti](veed-texti.md) þarf sérstakt gagnasafn með upphafi og lokum hvers orðs, endurreiknað með sama klippikorti; SRT dugar eitt og sér aðeins fyrir Roboto-textun sem notandi hefur beðið um sérstaklega (samkvæmt video.md).
 
 Það hafnar ógildum tímum, textun utan kafla, skörun texta innan kafla og yfirskrift fyrri úttaksskráa. Það staðfestir ekki innihald tals, merkingu endurröðunar eða að skráartilvísanir séu aðgengilegar. Eftir breytingu á köflum þarf að keyra það aftur og láta sömu áætlun stýra mynd og hljóði. Tímasettu innskot út frá kortinu og yfirfarðu hreyfingar sérstaklega.

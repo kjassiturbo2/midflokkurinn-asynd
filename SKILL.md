@@ -15,7 +15,7 @@ Samræmdu umbeðið efni ásýnd Miðflokksins. Skillinn geymir liti, letur og u
 
 - Lestu [ásýndarreglurnar](references/identity.md) áður en þú hannar. Þar eru opinberar litareglur aðgreindar frá athugunum á vefnum og tillögum að útfærslu.
 - Fyrir klippingu myndbanda og ræðubrota skaltu lesa [myndbandsverkhlutann](references/video.md): efnisval og röð, þétting tals, skurður, íslensk textun, heimildarinnskot, samstilling og lokayfirferð. Verkhlutinn er hluti af þessu skilli og krefst ekki annars skills. Sérstakar óskir notanda ganga framar sjálfgefnum vinnureglum.
-- Fyrir valkostinn **„veed-texti“** skaltu lesa [orðbundnu textunarleiðbeiningarnar](references/veed-texti.md): Poppins ExtraBold, grátt → hvítt eftir því sem orðin heyrast. Nota þegar notandi velur stílinn; almenn Roboto-textun helst valkostur.
+- Sjálfgefin textun klippa er **„veed-texti“**: lestu [orðbundnu textunarleiðbeiningarnar](references/veed-texti.md) — Poppins ExtraBold, grátt → hvítt eftir því sem orðin heyrast. Roboto-textun er aðeins notuð þegar notandi biður sérstaklega um hana.
 - Fyrir myndir eða vefi skaltu lesa viðeigandi kafla í [miðlaleiðbeiningunum](references/media.md).
 - Nákvæm stílgildi eru í [assets/tokens.json](assets/tokens.json). Vefstílar og staðbundnar leturvísanir eru í [assets/brand.css](assets/brand.css).
 - Retro variant (opt-in, English reference): only when the user asks for "retro Miðflokkurinn", "horsing around", "the dithered horse" or "the Hleri look", read [horsing-around.md](references/horsing-around.md). The kit is in assets/horsing-around/.
