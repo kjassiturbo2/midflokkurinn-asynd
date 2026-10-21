@@ -25,13 +25,14 @@ Skillinn er hugsaður fyrir vinnu í forriti á tölvu notandans (t.d. Claude De
 - Fyrir klippingu myndbanda og ræðubrota skaltu lesa [myndbandsverkhlutann](references/video.md): efnisval og röð, þétting tals, skurður, íslensk textun, heimildarinnskot, samstilling og lokayfirferð. Verkhlutinn er hluti af þessu skilli og krefst ekki annars skills. Sérstakar óskir notanda ganga framar sjálfgefnum vinnureglum.
 - Sjálfgefin textun klippa er **„veed-texti“**: lestu [orðbundnu textunarleiðbeiningarnar](references/veed-texti.md) — Poppins ExtraBold, grátt → hvítt eftir því sem orðin heyrast. Roboto-textun er aðeins notuð þegar notandi biður sérstaklega um hana.
 - Fyrir myndir eða vefi skaltu lesa viðeigandi kafla í [miðlaleiðbeiningunum](references/media.md).
+- Fyrir auglýsingar, samfélagsmiðlamyndir og önnur spjöld með texta skaltu lesa [umbrotsleiðbeiningarnar](references/layout.md): stigveldi, flokkun með bilum, staðsetningu og yfirferð. Þær eru sjálfgefin byrjun, ekki skylda; þú mátt spyrja notandann eða skila tveimur útfærslum þegar uppsetningin er ekki augljós.
 - Nákvæm stílgildi eru í [assets/tokens.json](assets/tokens.json). Vefstílar og staðbundnar leturvísanir eru í [assets/brand.css](assets/brand.css).
 - Retro variant (opt-in, English reference): only when the user asks for "retro Miðflokkurinn", "horsing around", "the dithered horse" or "the Hleri look", read [horsing-around.md](references/horsing-around.md). The kit is in assets/horsing-around/.
 - Veldu raunverulegt merki úr [eignayfirlitinu](references/assets.md). Allar eignir eru innifaldar í skillinum; ekki byggja á því að upprunamappan sé áfram á sama stað.
 
 ## Kjarni ásýndarinnar
 
-Nótt `#0f234c` er ríkjandi litur. Fönn `#ffffff` er hvítur. Sól `#dbb765` dregur fram lykilorð og áherslur. Notaðu aðra liti samkvæmt hlutverkum þeirra í litaskjalinu.
+Nótt `#0f234c` er ríkjandi litur. Fönn `#ffffff` er hvítur. Sól `#dbb765` dregur fram lykilorð og áherslur; í grafík ber stærð áhersluna og Sól styður hana. Notaðu aðra liti samkvæmt hlutverkum þeirra í litaskjalinu.
 
 Roboto er staðfest aðalletur núverandi vefs: Black/900 í aðalfyrirsögn, Bold/700 í kaflafyrirsögnum og Regular/400 í meginmáli. Blacker Pro Display Condensed Regular og Italic fylgja ásýndarpakkanum en eru ekki sjálfgefið fyrirsagnaletur á forsíðu vefsins. Ekki fullyrða að notkunarregla um Blacker sé opinber nema frekari heimild liggi fyrir.
 
@@ -52,7 +53,7 @@ Roboto er staðfest aðalletur núverandi vefs: Black/900 í aðalfyrirsögn, Bo
 - Notaðu upprunaleg SVG eða PNG merki. Varðveittu hlutföll og liti. Ekki endurteikna hestinn, búa til xM með venjulegu letri eða láta myndlíkön endurgera merkin.
 - Notaðu raunverulegar leturskrár og staðfestu íslensku stafina, þar á meðal Þ, þ, Ð, ð, Æ, æ, Ö og ö. Ekki herma eftir Blacker með Georgia eða Roboto með Arial og kalla það fulla samræmingu.
 - Skjöl sem birtast inni í mynd eða myndbandi halda upprunalegu letri og útliti. Merktu umgjörðina, ekki frumheimildina.
-- Skoðaðu lokaútkomu á raunverulegri birtingarstærð. Fyrir myndband skaltu skoða bæði inn- og útgang hreyfinga og mynd eftir að tímabundnir titlar hverfa.
+- Skoðaðu lokaútkomu á raunverulegri birtingarstærð. Fyrir kyrrmynd skaltu líka fara yfir umbrotið samkvæmt [yfirferðinni í umbrotsleiðbeiningunum](references/layout.md#yfirferð-fyrir-afhendingu). Fyrir myndband skaltu skoða bæði inn- og útgang hreyfinga og mynd eftir að tímabundnir titlar hverfa.
 - Fylgdu breytingum sem notandinn biður um í tilteknu verkefni. Gerðu einstaka ósk um lengd, staðsetningu eða merkingar ekki að nýrri almennri ásýndarreglu.
 
 ## Heimildir og viðhald

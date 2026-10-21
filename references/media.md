@@ -18,6 +18,7 @@ Fyrir auglýsingamyndbönd með titlum, fundarupplýsingum eða grafískum spjö
 
 ## Kyrrmyndir og auglýsingar
 
+- Raðaðu texta og merkjum samkvæmt [umbrotsleiðbeiningunum](layout.md): eitt aðalatriði, þrjú stig mest, flokkun með bilum og ein undirskrift.
 - Byggðu uppsetninguna sem samsetta grafík samkvæmt framleiðslureglunni í SKILL.md. Notaðu raunverulegar Roboto-skrár fyrir almennar fyrirsagnir og meginmál; Blacker aðeins þegar viðeigandi hönnun eða fyrirmæli kalla á það.
 - Hladdu letrinu áður en þú mælir texta og flytur út. Staðfestu að engin sjálfvirk staðgengilsletur séu notuð. Í SVG þarf að tryggja að letrið fylgi eða umbreyta rétt settum texta í ferla fyrir færanlegan útflutning; geymdu einnig frumgerð með breytanlegum texta.
 - Settu viðeigandi upprunalegt SVG/PNG merki inn sem eign. Fyrir staðbundinn viðburð skaltu finna sveitarfélagsmerkið í eignayfirlitinu. Ef rétta eign vantar skaltu ekki teikna staðgengil.
