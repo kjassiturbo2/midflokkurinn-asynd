@@ -22,6 +22,7 @@ Reglurnar eru almennt hönnunarmat og vinnureglur eiganda frá 21. október 2026
 8. **Línuskil eftir merkingu.** Brjóttu línur þar sem setningin andar. Ekki skilja eftir stakt smáorð („um“, „í“, „og“) í línuenda ef hægt er að komast hjá því.
 9. **Ein undirskrift.** Þegar staðbundið xM-merki er notað neðst verður merki flokksins efst lítið eða því er sleppt. Slagorð og xM mynda saman undirskriftarhóp.
 10. **Jafnt línubil innan hóps.** Notaðu sömu leturstærð og línuhæð fyrir allar línur sama stigs. Ekki stækka eina línu um fáein pixla.
+11. **Láttu umbrotið útskýra.** Slepptu óþörfum merkimiðum og skýringartextum. Staður, tími, nafn og hlutverk skiljast af stærð, röð og flokkun, svo „Staður:“, „Tími:“, „Ræðumaður:“, yfirskriftir á borð við „Fundur“ fyrir ofan fundarheiti eða skýringarlína sem endursegir aðalatriðið eru óþörf. Bættu aðeins við merkimiða þegar merkingin yrði annars óljós, til dæmis tvær tímasetningar eða tveir staðir, eða þegar notandinn biður um hann. Lögbundnar merkingar og upplýsingar sem notandinn lét fylgja haldast.
 
 ## Sjálfgefin uppsetning: þrír hópar
 
@@ -71,4 +72,5 @@ Skoðaðu útfluttu myndina og svaraðu þessu. Ef svar er nei skaltu laga það
 - Situr miðja skilaboðablokkar ofan við miðju, um 40–48% hæðar?
 - Er allur texti innan spássíu og birtingarsvæðis viðkomandi sniðs?
 - Er aðeins ein undirskrift í fullri stærð?
+- Er hver merkimiði og skýringartexti nauðsynlegur, eða myndi umbrotið eitt segja það sama?
 - Skilst auglýsingin þegar hún er smækkuð í 270 px breidd?

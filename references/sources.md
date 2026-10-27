@@ -36,3 +36,7 @@ Eigandi bað um aðvörun þegar skillið er notað í síma eða vafra fyrir ve
 ## Umbrot kyrrmynda — 21. október 2026
 
 Eigandi sendi auglýsingu fyrir Hafnarfjörð sem gerð var með skillinu og sagði hana illa uppsetta. Greiningin sýndi að skillið hafði aðeins framleiðslureglur, ekki umbrotsreglur. [Umbrotsleiðbeiningarnar](layout.md) byggja á almennum reglum grafískrar hönnunar (stigveldi, nálægð, sjónræn miðja) og birtum leiðbeiningum um birtingarsvæði, t.d. [Buffer um 3:4 prófílnet Instagram](https://buffer.com/resources/instagram-grid/) og [Billo um birtingarsvæði Meta](https://billo.app/blog/meta-ads-safe-zones). Eigandi samþykkti þær sem leiðbeiningar, ekki skyldu, og óskaði þess að heimilt sé að spyrja notandann eða skila tveimur útfærslum.
+
+## Merkimiðar og skýringartextar — 27. október 2026
+
+Eigandi bað um að reglan „Avoid unnecessary secondary labels and descriptions. Let the layout do the explaining.“ (úr tísti) yrði hluti af skillinu. Hún er regla 11 í [umbrotsleiðbeiningunum](layout.md) og gildir líka um grafík í myndböndum samkvæmt video.md, en ekki um skjátexta tals eða heimildarinnskot. Undantekningar fyrir óljósa merkingu og lögbundnar merkingar eru hönnunarmat.
