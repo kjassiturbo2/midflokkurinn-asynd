@@ -9,7 +9,7 @@ Samræmdu umbeðið efni ásýnd Miðflokksins. Skillinn geymir liti, letur og u
 
 ## Fyrsta skref í hverju verkefni: athuga uppfærslu
 
-Áður en þú notar ásýndarreglurnar skaltu athuga hvort ný útgáfa sé á GitHub samkvæmt [uppfærsluleiðbeiningunum](references/updates.md). Gerðu þetta við hverja nýja virkjun skillsins, líka í nýju verkefni innan sama samtals; ekki fyrir hverja smáleiðréttingu í yfirstandandi verkefni. Sæktu nýrri útgáfu þegar umhverfið leyfir og lestu uppfærðar leiðbeiningar áður en þú heldur áfram. Ef athugunin tekst ekki skaltu segja það stuttlega og nota uppsettu reglurnar, án þess að fullyrða að þær séu nýjustu reglurnar.
+Áður en þú notar ásýndarreglurnar skaltu athuga hvort ný útgáfa sé á GitHub samkvæmt [uppfærsluleiðbeiningunum](references/updates.md). Gerðu þetta við hverja nýja virkjun skillsins, líka í nýju verkefni innan sama samtals; ekki fyrir hverja smáleiðréttingu í yfirstandandi verkefni. Sæktu nýrri útgáfu þegar umhverfið leyfir og lestu uppfærðar leiðbeiningar áður en þú heldur áfram. Ef athugunin bregst þarf ekki að greina sérstaklega frá því.
 
 ## Vinnuumhverfi — aðvörun í síma eða vafra
 
