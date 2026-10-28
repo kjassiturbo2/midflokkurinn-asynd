@@ -29,31 +29,62 @@ Afritaðu eitt af dæmunum hér fyrir neðan inn í samtalið við gervigreindin
 
 ### Klippa ræðubrot
 
-> Notaðu midflokkurinn-asynd til að klippa meðfylgjandi upptöku í stutt myndband um [viðfangsefni]. Leggðu áherslu á [ræðumann eða atriði]. Veldu skýrt upphaf, þéttu hik og langar þagnir og textaðu á íslensku. Varðveittu samhengi og mikilvæga fyrirvara.
+```text
+Notaðu midflokkurinn-asynd til að klippa meðfylgjandi upptöku í stutt
+myndband um [viðfangsefni]. Leggðu áherslu á [ræðumann eða atriði].
+Veldu skýrt upphaf, þéttu hik og langar þagnir og textaðu á íslensku.
+Varðveittu samhengi og mikilvæga fyrirvara.
+```
 
 Sjálfgefið fær stutt ræðubrot lóðrétt 9:16 snið, hóflegan skurð, lítið flokksmerki og hvítan íslenskan skjátexta með svörtum útlínum. Þú getur beðið um annað. Ef skjal á að birtast með talinu skaltu láta það fylgja og segja hvaða atriði á að sýna.
 
 ### Auglýsing fyrir fund
 
-> Gerðu auglýsingu fyrir fund á þriðjudaginn kl. 19:30 á Hótel Borg. Notaðu midflokkurinn-asynd. Hér er mynd af mér fyrir auglýsinguna. Hafðu stað og tíma áberandi og textann auðlesinn í síma. Spurðu mig um dagsetningu, nafn og fundarefni áður en þú klárar.
+```text
+Gerðu auglýsingu fyrir fund á þriðjudaginn kl. 19:30 á Hótel Borg.
+Notaðu midflokkurinn-asynd. Hér er mynd af mér fyrir auglýsinguna. Hafðu
+stað og tíma áberandi og textann auðlesinn í síma. Spurðu mig um
+dagsetningu, nafn og fundarefni áður en þú klárar.
+```
 
 ### Stutt myndband fyrir Story eða Reel
 
 9:16 er lóðrétt snið sem fyllir símaskjáinn, eins og í Story eða Reel á Instagram og Facebook.
 
-> Búðu til 15 sekúndna myndband í lóðréttu 9:16 sniði fyrir Story eða Reel. Notaðu midflokkurinn-asynd og myndina sem ég læt fylgja. Auglýstu fund á Hótel Borg á þriðjudaginn kl. 19:30. Hafðu stóran, skýran texta og rólegar hreyfingar. Láttu stað og tíma sjást í lokin nógu lengi til að hægt sé að lesa þau. Spurðu mig um nákvæma dagsetningu og fundarefni fyrst.
+```text
+Búðu til 15 sekúndna myndband í lóðréttu 9:16 sniði fyrir Story eða
+Reel. Notaðu midflokkurinn-asynd og myndina sem ég læt fylgja. Auglýstu
+fund á Hótel Borg á þriðjudaginn kl. 19:30. Hafðu stóran, skýran texta
+og rólegar hreyfingar. Láttu stað og tíma sjást í lokin nógu lengi til
+að hægt sé að lesa þau. Spurðu mig um nákvæma dagsetningu og fundarefni
+fyrst.
+```
 
 ### Mynd með tilvitnun
 
-> Gerðu ferkantaða mynd fyrir Facebook og Instagram. Notaðu midflokkurinn-asynd og myndina af mér sem fylgir. Settu þessa tilvitnun á myndina: „[Settu þína tilvitnun hér]“. Settu nafnið mitt fyrir neðan: [nafnið þitt]. Hafðu textann stóran og ekki láta hann hylja andlitið.
+```text
+Gerðu ferkantaða mynd fyrir Facebook og Instagram. Notaðu
+midflokkurinn-asynd og myndina af mér sem fylgir. Settu þessa tilvitnun
+á myndina: „[Settu þína tilvitnun hér]“. Settu nafnið mitt fyrir neðan:
+[nafnið þitt]. Hafðu textann stóran og ekki láta hann hylja andlitið.
+```
 
 ### Sama auglýsing í fleiri stærðum
 
-> Notaðu midflokkurinn-asynd og gerðu tvær útgáfur af auglýsingunni sem fylgir: ferkantaða mynd fyrir færslu og lóðrétta 9:16 mynd fyrir Story. Haltu sama texta og sömu mynd, en lagaðu uppsetninguna að hvorri stærð svo allt sé auðlesið.
+```text
+Notaðu midflokkurinn-asynd og gerðu tvær útgáfur af auglýsingunni sem
+fylgir: ferkantaða mynd fyrir færslu og lóðrétta 9:16 mynd fyrir Story.
+Haltu sama texta og sömu mynd, en lagaðu uppsetninguna að hvorri stærð
+svo allt sé auðlesið.
+```
 
 ### Einfaldar glærur fyrir fund
 
-> Búðu til fimm glærur úr punktunum sem ég set hér fyrir neðan. Notaðu midflokkurinn-asynd. Hafðu eina meginhugmynd á hverri glæru, stórt letur og lítinn texta. Hér eru punktarnir: [Settu punktana þína hér].
+```text
+Búðu til fimm glærur úr punktunum sem ég set hér fyrir neðan. Notaðu
+midflokkurinn-asynd. Hafðu eina meginhugmynd á hverri glæru, stórt letur
+og lítinn texta. Hér eru punktarnir: [Settu punktana þína hér].
+```
 
 Þú þarft ekki að fá allt rétt í fyrstu tilraun. Þú getur haldið áfram í sama samtali og sagt til dæmis: „Stækkaðu tímann“, „Hafðu minni texta“ eða „Notaðu þessa mynd í staðinn“.
 
