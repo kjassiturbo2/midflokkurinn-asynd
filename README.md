@@ -96,7 +96,7 @@ Skillið krefst þess að auglýsingar séu settar saman með réttu letri, uppr
 
 ## Uppfærslur
 
-Skillið biður gervigreindina um að athuga GitHub í upphafi hvers nýs verkefnis og sækja nýrri útgáfu áður en hún byrjar. Þetta krefst þess að verkfærið hafi netaðgang og geti uppfært uppsetta skillið. Ef það getur það ekki á það að láta þig vita.
+Skillið skyldar gervigreindina til að athuga GitHub í upphafi hvers nýs verkefnis og sækja nýrri útgáfu áður en hún byrjar. Uppfærsluskriftan `scripts/update_skill.py` prófar nokkrar leiðir, því sum umhverfi loka á eina slóð til GitHub en leyfa aðra. Ef engin leið virkar á gervigreindin að stöðva og spyrja þig áður en hún vinnur á eldri útgáfu.
 
 Ef þú settir skillið upp áður en þessi uppfærsluregla bættist við þarftu að uppfæra það einu sinni. Láttu gervigreindina fá þessi skilaboð:
 

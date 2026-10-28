@@ -9,7 +9,12 @@ Samræmdu umbeðið efni ásýnd Miðflokksins. Skillinn geymir liti, letur og u
 
 ## Fyrsta skref í hverju verkefni: athuga uppfærslu
 
-Áður en þú notar ásýndarreglurnar skaltu athuga hvort ný útgáfa sé á GitHub samkvæmt [uppfærsluleiðbeiningunum](references/updates.md). Gerðu þetta við hverja nýja virkjun skillsins, líka í nýju verkefni innan sama samtals; ekki fyrir hverja smáleiðréttingu í yfirstandandi verkefni. Sæktu nýrri útgáfu þegar umhverfið leyfir og lestu uppfærðar leiðbeiningar áður en þú heldur áfram. Ef athugunin bregst þarf ekki að greina sérstaklega frá því.
+Áður en þú lest aðrar tilvísanir eða byrjar á verkinu skaltu uppfæra skillið samkvæmt [uppfærsluleiðbeiningunum](references/updates.md). Þetta er skylda í hverju umhverfi, við hverja nýja virkjun skillsins, líka í nýju verkefni innan sama samtals; ekki fyrir hverja smáleiðréttingu í yfirstandandi verkefni.
+
+- Ef þú getur keyrt Python: `python3 scripts/update_skill.py` í skillmöppunni. Skriftan prófar allar leiðir og segir með útgönguköða hvað á að gera næst.
+- Ein misheppnuð slóð er ekki nóg til að gefast upp. Prófaðu allar leiðir í leiðbeiningunum; umhverfi loka oft á eina slóð en leyfa aðra.
+- Ef ný útgáfa er sótt skaltu lesa SKILL.md og tilvísanir aftur úr henni áður en þú heldur áfram. Ef skillmappan er skrifvarin skaltu vinna eftir sannreyndu útgáfunni í tímabundnu möppunni og bjóða að setja skillið upp aftur.
+- Ef engin leið virkar skaltu stöðva og segja notandanum frá því áður en framleiðsla hefst, með uppsettri útgáfu og villunum sem komu upp. Haltu aðeins áfram á eldri útgáfu með samþykki hans.
 
 ## Vinnuumhverfi — aðvörun í síma eða vafra
 
