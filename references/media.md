@@ -11,7 +11,7 @@ Fyrir auglýsingamyndbönd með titlum, fundarupplýsingum eða grafískum spjö
 ## Vefir
 
 - Afritaðu assets/brand.css og nauðsynlegar eignir með sömu hlutfallslegu slóðum eða uppfærðu þær meðvitað. Stílarnir eru valfrjálsir klasar, ekki heill veframmi.
-- Notaðu Roboto í meginmáli og almennum fyrirsögnum. Notaðu Blacker aðeins þar sem valin hönnun eða fyrirmæli kalla á það; ekki breyta öllum fyrirsögnum í serif vegna þess að skrá er til.
+- Notaðu Roboto í meginmáli og almennum fyrirsögnum. Notaðu Blacker aðeins þar sem valin hönnun eða fyrirmæli kalla á það; ekki breyta öllum fyrirsögnum í serif vegna þess að skrá er til. Þessi regla á við vefi; í samfélagsmiðlagrafík hefur Blacker fast hlutverk, sjá kaflann um kyrrmyndir.
 - Notaðu SVG fyrir merki. PNG hentar þar sem viðkomandi birting styður ekki SVG.
 - Lykiláherslur geta verið Sól á Nótt. Venjulegt meginmál á hvítu má vera #4e4e4e. Veldu dökkan texta á ljósum fleti þegar gyllt smáletur er ólæsilegt.
 - Staðfestu að letur hlaðist í raun, að íslenskir stafir birtist rétt og að línuskipti haldist læsileg á síma. Sérútgáfur eða umbreytt vefletur þurfa viðeigandi heimildir fyrir þeirri dreifingu sem verkefnið felur í sér; engin sértæk Blacker-vefleyfisskrá fylgdi afhenta pakkanum.
@@ -19,11 +19,12 @@ Fyrir auglýsingamyndbönd með titlum, fundarupplýsingum eða grafískum spjö
 ## Kyrrmyndir og auglýsingar
 
 - Raðaðu texta og merkjum samkvæmt [umbrotsleiðbeiningunum](layout.md): eitt aðalatriði, þrjú stig mest, flokkun með bilum og ein undirskrift.
-- Byggðu uppsetninguna sem samsetta grafík samkvæmt framleiðslureglunni í SKILL.md. Notaðu raunverulegar Roboto-skrár fyrir almennar fyrirsagnir og meginmál; Blacker aðeins þegar viðeigandi hönnun eða fyrirmæli kalla á það.
+- Fyrir samfélagsmiðlagrafík skaltu velja [mynstur](patterns.md) sem passar við beiðnina áður en þú setur upp.
+- Byggðu uppsetninguna sem samsetta grafík samkvæmt framleiðslureglunni í SKILL.md. Notaðu raunverulegar Roboto-skrár fyrir fyrirsagnir, nöfn og tölur og Blacker Pro Display Condensed Regular fyrir stuðningstexta: dagsetningar, tíma og stað, tilvitnanir, lýsingar og stakar setningar. Þetta er hlutverkaskipting birts efnis flokksins. Blacker er aldrei sett í hástöfum.
 - Hladdu letrinu áður en þú mælir texta og flytur út. Staðfestu að engin sjálfvirk staðgengilsletur séu notuð. Í SVG þarf að tryggja að letrið fylgi eða umbreyta rétt settum texta í ferla fyrir færanlegan útflutning; geymdu einnig frumgerð með breytanlegum texta.
 - Settu viðeigandi upprunalegt SVG/PNG merki inn sem eign. Fyrir staðbundinn viðburð skaltu finna sveitarfélagsmerkið í eignayfirlitinu. Ef rétta eign vantar skaltu ekki teikna staðgengil.
 - Ljósmynd er sérstakt lag; má skera hana, skala og setja litaðan flöt yfir til að bæta læsileika. Ekki láta myndlíkan endurgera ljósmynd, andlit eða kennileiti sem hluta af auglýsingunni.
-- Aðlagaðu hlutföll að birtingu. 9:16, 4:5 og 1:1 eru ólíkar uppsetningar, ekki eingöngu sjálfvirkur útskurður úr einni mynd.
+- Aðlagaðu hlutföll að birtingu. 9:16, 3:4 og 1:1 eru ólíkar uppsetningar, ekki eingöngu sjálfvirkur útskurður úr einni mynd.
 - Opinberir bakgrunnar og samfélagsmiðlaeignir eru í assets/backgrounds og assets/social. Þeir eru valkostir, ekki skylduuppsetning.
 
 Dæmi: „Gerðu auglýsingu fyrir bæjarmálafund í Kópavogi“ á að leiða til samsetningar með réttum merkjaskrám, raunverulegu letri og staðfestum fundarupplýsingum. Röng leið er að biðja myndlíkan um blátt og gyllt fundarplakat með M-merki og tilbúnu útsýni yfir bæinn — jafnvel þótt síðan sé settur réttur texti ofan á myndina.

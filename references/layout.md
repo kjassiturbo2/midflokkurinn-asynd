@@ -4,6 +4,8 @@
 
 Reglurnar eru almennt hönnunarmat og vinnureglur eiganda frá 21. október 2026, ekki opinber ásýndarhandbók. Þær eru sjálfgefin byrjun og yfirferð, ekki skylda. Tölurnar eru upphafsgildi sem má víkja frá með rökum, til dæmis fyrir ljósmynd, tilvitnun eða fundarboð með mörgum upplýsingum.
 
+Fyrir samfélagsmiðlagrafík skaltu fyrst athuga hvort beiðnin fellur að einhverju [mynstranna](patterns.md): fullyrðing, ljósmynd með fyrirsögn, fjölmiðlaframkoma, viðburður, tilvitnun, tölur eða skýring. Mynstrin byggja á birtu efni flokksins og ganga framar almennu uppsetningunni hér að neðan. Grunnreglurnar og yfirferðin gilda um þau öll.
+
 ## Þegar efnið gefur ekki skýra uppsetningu
 
 Það er í lagi að spyrja notandann áður en þú setur upp, til dæmis hvert aðalatriðið er, hvort merki flokksins eða staðbundið xM-merki eigi að bera undirskriftina eða í hvaða miðli myndin birtist. Spurðu aðeins um það sem breytir uppsetningunni og ekki þegar svarið liggur fyrir í beiðninni.
@@ -31,24 +33,28 @@ Reglurnar eru almennt hönnunarmat og vinnureglur eiganda frá 21. október 2026
 | Hópur | Staðsetning | Letur |
 |---|---|---|
 | Merki | Efst við spássíu, lítið | Upprunalegt merki úr assets/logos |
-| Skilaboð | Miðja blokkar við 40–48% hæðar | Aðalatriði í Roboto Black; stuðningur í Roboto Bold, há- og lágstafir |
-| Undirskrift | Neðst við spássíu | Slagorð í Roboto Bold og xM-merki úr assets/regional eða assets/logos |
+| Skilaboð | Miðja blokkar við 40–48% hæðar | Aðalatriði í Roboto Black, hástafir; stuðningur í Blacker Pro Display Condensed Regular, há- og lágstafir (Roboto Bold fyrir tölur og staðreyndir) |
+| Undirskrift | Neðst við spássíu | Undirskriftarlás (xM, lína og „ÞAÐ MUNAR UM MIÐFLOKKINN“, sjá [mynstrin](patterns.md#sameiginlegir-hlutar)) eða staðbundið xM-merki úr assets/regional |
 
 Upphafsgildi á 1080 px breidd:
 
 | Snið | Stærð | Spássía | Aðalatriði | Stuðningur | Undirskrift |
 |---|---|---|---|---|---|
-| 4:5 færsla | 1080 × 1350 | 88–108 px | 110–140 px | 50–60 px | xM 50–64 px hátt |
-| 1:1 færsla | 1080 × 1080 | 80–100 px | 96–120 px | 46–56 px | xM 46–58 px hátt |
-| 9:16 Story/Reel | 1080 × 1920 | 96 px á hliðum | 120–150 px | 54–64 px | xM 56–70 px hátt |
+| 3:4 færsla (sjálfgefin) | 1080 × 1440 | 60–108 px | 110–145 px | 60–72 px | lás um 640 × 94 px |
+| 1:1 færsla | 1080 × 1080 | 60–100 px | 96–120 px | 52–64 px | lás um 550 × 94 px |
+| 9:16 Story/Reel | 1080 × 1920 | 60–96 px á hliðum | 120–150 px | 60–72 px | lás um 640 × 94 px |
+| 4:5 færsla (aðeins ef beðið er um) | 1080 × 1350 | 88–108 px | 110–140 px | 56–68 px | lás um 600 × 90 px |
 
-Leturstærðirnar miðast við Roboto og eru heildarstærð leturs, ekki hástafahæð. Langt aðalatriði fer í minni stærð frekar en þrjár línur.
+Aðrar stærðir í birtu efni: Facebook-forsíða 1640 × 720 og 16:9 fyrir YouTube 1920 × 1080. Fyrir Facebook-viðburðarborða skaltu staðfesta núverandi viðmið Meta áður en þú setur upp.
+
+Leturstærðirnar eru heildarstærð leturs, ekki hástafahæð. Blacker er þéttara og lægra en Roboto í sömu stærð, svo stuðningstexti í Blacker er settur stærri en sami texti væri í Roboto Bold. Langt aðalatriði fer í minni stærð frekar en þrjár línur.
 
 ## Birtingarsvæði
 
-- **4:5 í streymi** sýnir alla myndina. Prófílnet Instagram sýnir hins vegar 3:4 og sker um 67 px af hvorri hlið á 1080 × 1350. Haltu texta innan þess svæðis.
+- **3:4 (1080 × 1440)** er sjálfgefin færsla. Hún birtist óskorin bæði í streymi og í 3:4 prófílneti Instagram og er það snið sem flokkurinn notar mest.
+- **4:5 í streymi** sýnir alla myndina, en prófílnetið sker um 67 px af hvorri hlið á 1080 × 1350. Haltu texta innan þess svæðis ef 4:5 er notað.
 - **9:16** er hulið af viðmóti efst og neðst. Upphafsgildi: um 250 px efst og 340–420 px neðst án texta eða merkja. Mörkin eru breytileg eftir miðli og tíma, sjá [myndbandsverkhlutann](video.md) um mat á viðmóti.
-- **1:1 og 9:16** eru sjálfstæð umbrot, ekki útskurður úr 4:5.
+- **1:1 og 9:16** eru sjálfstæð umbrot, ekki útskurður úr 3:4.
 
 Staðfestu nýjustu viðmið miðils ef nákvæm mörk skipta máli.
 

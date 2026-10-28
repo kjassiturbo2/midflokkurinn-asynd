@@ -40,3 +40,13 @@ Eigandi sendi auglýsingu fyrir Hafnarfjörð sem gerð var með skillinu og sag
 ## Merkimiðar og skýringartextar — 27. október 2026
 
 Eigandi bað um að reglan „Avoid unnecessary secondary labels and descriptions. Let the layout do the explaining.“ (úr tísti) yrði hluti af skillinu. Hún er regla 11 í [umbrotsleiðbeiningunum](layout.md) og gildir líka um grafík í myndböndum samkvæmt video.md, en ekki um skjátexta tals eða heimildarinnskot. Undantekningar fyrir óljósa merkingu og lögbundnar merkingar eru hönnunarmat.
+
+## Mynstur samfélagsmiðlagrafíkur — 28. október 2026
+
+Eigandi afhenti PNG-útflutning úr Figma með um 430 skrám: birtum færslum, sögum, forsíðum og brotum. Yfirferðin greindi sjö endurtekin uppsetningarmynstur. Mælingar á staðsetningu og stærðum voru teknar sjálfvirkt af pixlum. [Mynstrin](patterns.md) eru staðfest notkun flokksins, ekki opinber handbók.
+
+Samanburður afhentrar Blacker Pro Display Condensed Regular-skrár við texta í birtum hönnunum sýndi sama letur. Því var hlutverk Blacker sem stuðningsleturs í grafík skráð í identity.md, media.md og SKILL.md. Takmörkun á Blacker í vefefni stendur óbreytt.
+
+Í útflutningnum er 1080 × 1440 (3:4) algengasta færslusniðið (117 skrár, á móti 44 í 1:1 og 29 í 9:16) og ekkert efni er í 4:5. Sjálfgefið færslusnið í layout.md var því breytt úr 4:5 í 3:4; 4:5 stendur eftir sem valkostur.
+
+ESB-vatnsmerkið var skráð sem herferðarlag sem aðeins er notað þegar beðið er um það. Skornir mynsturhlutar, stök tákn og ofvaxin heildarútflutningsskrá eru ekki heimild um uppsetningu.
