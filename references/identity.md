@@ -20,6 +20,17 @@ Notaðu HEX/RGB fyrir stafrænt efni. Prentgildin að ofan eru afrituð úr lita
 
 **Blacker Pro Display Condensed:** Regular OTF og Italic TTF fylgja. Það fylgdi engin sérstök reglubók sem úthlutar þessu letri ákveðnu hlutverki. Vefurinn skráir skáletruðu útgáfuna sem `ct_font_blacker__pro__display`; forsíðufyrirsagnir sem voru skoðaðar nota Roboto.
 
+Í samfélagsmiðlagrafík flokksins er Blacker Regular staðfest stuðningsletur. Samanburður 28. október 2026 á afhentri leturskrá og birtum hönnunum í Figma-útflutningi eiganda sýndi sama letur. Hlutverkaskiptingin í birtu efni:
+
+| Hlutverk | Letur |
+|---|---|
+| Fyrirsagnir, nöfn, titlar viðburða og þátta | Roboto Black, hástafir |
+| Tölur og staðreyndir | Roboto Bold |
+| Dagsetning, tími og staður; tilvitnanir; lýsingar undir nafni; stakar setningar | Blacker Regular, há- og lágstafir |
+| Undirskriftarlás „ÞAÐ MUNAR UM MIÐFLOKKINN“ | Roboto Black, hástafir |
+
+Þetta er staðfest notkun, ekki regla úr opinberri handbók. Á vefnum er Roboto áfram ríkjandi.
+
 Staðfest á midflokkurinn.is 8. október 2026:
 
 | Hlutverk | Letur / þyngd | Annað |
