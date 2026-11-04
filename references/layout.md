@@ -6,6 +6,8 @@ Reglurnar eru almennt hönnunarmat og vinnureglur eiganda frá 21. október 2026
 
 Fyrir samfélagsmiðlagrafík skaltu fyrst athuga hvort beiðnin fellur að einhverju [mynstranna](patterns.md): fullyrðing, ljósmynd með fyrirsögn, fjölmiðlaframkoma, viðburður, tilvitnun, tölur eða skýring. Mynstrin byggja á birtu efni flokksins og ganga framar almennu uppsetningunni hér að neðan. Grunnreglurnar og yfirferðin gilda um þau öll.
 
+Flokksmerki og undirskriftarlásar í uppsetningum hér eru aðeins notuð þegar notandinn biður um þau.
+
 ## Þegar efnið gefur ekki skýra uppsetningu
 
 Það er í lagi að spyrja notandann áður en þú setur upp, til dæmis hvert aðalatriðið er, hvort merki flokksins eða staðbundið xM-merki eigi að bera undirskriftina eða í hvaða miðli myndin birtist. Spurðu aðeins um það sem breytir uppsetningunni og ekki þegar svarið liggur fyrir í beiðninni.

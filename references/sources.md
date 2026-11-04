@@ -50,3 +50,9 @@ Samanburður afhentrar Blacker Pro Display Condensed Regular-skrár við texta �
 Í útflutningnum er 1080 × 1440 (3:4) algengasta færslusniðið (117 skrár, á móti 44 í 1:1 og 29 í 9:16) og ekkert efni er í 4:5. Sjálfgefið færslusnið í layout.md var því breytt úr 4:5 í 3:4; 4:5 stendur eftir sem valkostur.
 
 ESB-vatnsmerkið var skráð sem herferðarlag sem aðeins er notað þegar beðið er um það. Skornir mynsturhlutar, stök tákn og ofvaxin heildarútflutningsskrá eru ekki heimild um uppsetningu.
+
+## Merki og Story-snið útvarpsviðtala — 4. nóvember 2026
+
+Eigandi óskaði þess að engin flokksmerki fylgdu sjálfkrafa, þar á meðal hesturinn og xM. Þessi regla leysir af hólmi fyrri sjálfgefna notkun merkis í ræðubrotum og gildir líka þegar uppsetningarmynstur sýnir merki. Þegar merki er sérstaklega óskað í klippu er hesturinn sjálfgefinn fremur en xM.
+
+Eigandi samþykkti útlit Nönnu-klippunnar sem sjálfgefið Story-snið útvarpsviðtala: ljósmynd í góðri upplausn, dökkblár litahalli, gylltar hljóðbylgjur og veed-texti. Leiðbeiningarnar og aðlögunarhæf upphafsgildi eru í [video.md](video.md). Mynd og upptaka úr verkefninu eru ekki eignir skillsins.

@@ -31,12 +31,22 @@ Lestu þessa skrá þegar klippa á myndband eða ræðubrot með midflokkurinn-
 - Veldu hóflegan skurð sem sýnir andlit og efri hluta búks, varðveitir skerpu og leyfir hreyfingar. Skoðaðu alla valda kafla, líka þegar ræðumaður hallar sér eða snýr sér. Stöðugur skurður er góður þegar hann dugar; bættu ekki við sífelldum innstækkunum án ástæðu.
 - Þegar rammi fylgir hreyfingu skaltu meta samfellda hreyfingu yfir klippimörk. Ekki endurstilla skurðarhnit skyndilega við hvert stytt talhlé. Mýktu ferilinn yfir mörk innan sama sjónarhorns og skoðaðu hraða og stefnu beggja vegna. Haus í miðju tryggir ekki góða myndbyggingu; skoðaðu líka augnlínu, hendur, stellingu og fætur í víðari mynd.
 - Greindu stafræna rammafærslu frá raunverulegum myndavélaskiptum. Ekki pönna skurðinum milli ósamstæðra sjónarhorna. Þegar beðið er um mjúk myndskipti skaltu prófa stutta myndmýkingu án þess að færa tal eða texta úr takti; skoðaðu hvort tvöföld andlit eða kyrrstæðir rammar trufli. Ekki gera löng uppleysingarskipti að skyldu.
-- Hafðu lítið upprunalegt merki þar sem það truflar hvorki andlit né textun. Ekki bæta sjálfkrafa við stórum römmum, nafnaborðum, slagorðum, samantektum eða titilspjöldum.
+- Bættu aðeins við flokksmerki þegar notandinn biður um það. Ef óskað er eftir merki í klippu skaltu sjálfgefið velja lítið upprunalegt hestmerki þar sem það truflar hvorki andlit né textun; xM er aðeins notað ef þess er sérstaklega óskað. Ekki bæta sjálfkrafa við stórum römmum, nafnaborðum, slagorðum, samantektum eða titilspjöldum.
 - Í titlum, nafnaborðum og grafískum spjöldum sem eru notuð skal láta uppsetninguna útskýra og sleppa óþörfum merkimiðum og skýringartextum, samkvæmt reglu 11 í [umbrotsleiðbeiningunum](layout.md). Nafn og hlutverk ræðumanns þurfa ekki „Ræðumaður:“. Þetta á ekki við um skjátexta tals eða heimildarinnskot, sem halda upprunalegu orðalagi.
 - Textaðu íslenskt tal á íslensku. Sjálfgefinn stíll er **[veed-texti](veed-texti.md)**: Poppins ExtraBold, orð lýsast upp grátt → hvítt í takt við tal. Notaðu yfirleitt eina eða tvær línur, læsilegar á síma og utan svæðis sem viðmót birtingarmiðilsins hylur. Mældu línur með raunverulegu letri.
 - Roboto-textun er aðeins notuð þegar notandi biður sérstaklega um hana: meðfylgjandi Roboto Bold, hvítur texti og skýrar svartar útlínur, án orðbundinnar upplýsingar.
 - Greindu innbrenndan upprunatexta frá yfirlagi sem þú stjórnar. Ekki fela hann með nýjum borða þegar óskað hefur verið eftir minni umgjörð. Veldu skurð eða hreinsun út frá myndefninu; athugaðu sérstaklega hvort hreinsun aflögir eða mýkir andlit, hendur eða föt.
 - Ekki festa stærðir, skurðarhnit, lengd eða tímasetningu úr einni klippu sem almenn gildi.
+
+## Útvarpsviðtöl í Story: ljósmynd og hljóðbylgjur
+
+Þetta er sjálfgefið útlit Story-klippa úr útvarpsviðtölum, samþykkt af eiganda 4. nóvember 2026 eftir klippu með Nönnu. Þetta er framleiðslusnið eiganda, ekki opinber ásýndarregla. Sérstakar óskir notanda ganga framar.
+
+- Notaðu 9:16, að jafnaði 1080 × 1920, með einni ljósmynd af viðmælanda yfir allan flötinn. Ef mynd vantar skaltu biðja notandann um hana og taka fram að hún þurfi að vera í góðri upplausn, helst frumskrá sem þolir skurð í 1080 × 1920. Veldu skurð sem heldur andliti og efri búk sýnilegum og gefur pláss fyrir yfirlag.
+- Leggðu mjúkan Nótt-litahalla (`#0f234c`) frá botni yfir neðri hluta myndarinnar svo textinn sé læsilegur og andlitið haldist bjart. Fyrir 1080 × 1920 má byrja hallann um y=850 og láta hann ná um 95% ógagnsæi við y=1700. Aðlagaðu að ljósmyndinni; efri brún má fá væga skyggingu þegar þess þarf.
+- Settu gylltar hljóðbylgjur í Sól (`#dbb765`) yfir myndina, milli andlits og textunar. Hreyfingin skal reiknuð úr raunverulegu hljóðinu og fylgja talinu. Upphafsgildi á 1080 × 1920: miðja um y=1200, um 880 px breidd og allt að 160 px heildarhæð; mjóar stangir með mjúkum endum og hreyfingu.
+- Notaðu [veed-texta](veed-texti.md) neðarlega undir hljóðbylgjunum. Aðlagaðu staðsetningu bylgna og texta saman að myndinni og viðmóti Story.
+- Engin flokksmerki nema beðið sé um þau. Bættu ekki sjálfkrafa við fyrirsögn, nafnaborða eða slagorði. Lengd og efnisval fylgja beiðninni; lengd Nönnu-klippunnar er ekki sjálfgefið viðmið.
 
 ## Grafík og viðmót birtingarmiðils
 

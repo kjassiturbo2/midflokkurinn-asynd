@@ -27,14 +27,14 @@ Skillinn er hugsaður fyrir vinnu í forriti á tölvu notandans (t.d. Claude De
 ## Veldu réttan grunn
 
 - Lestu [ásýndarreglurnar](references/identity.md) áður en þú hannar. Þar eru opinberar litareglur aðgreindar frá athugunum á vefnum og tillögum að útfærslu.
-- Fyrir klippingu myndbanda og ræðubrota skaltu lesa [myndbandsverkhlutann](references/video.md): efnisval og röð, þétting tals, skurður, íslensk textun, heimildarinnskot, samstilling og lokayfirferð. Verkhlutinn er hluti af þessu skilli og krefst ekki annars skills. Sérstakar óskir notanda ganga framar sjálfgefnum vinnureglum.
+- Fyrir klippingu myndbanda og ræðubrota skaltu lesa [myndbandsverkhlutann](references/video.md): efnisval og röð, þétting tals, skurður, íslensk textun, heimildarinnskot, samstilling og lokayfirferð. Þar er líka sjálfgefið Story-snið útvarpsviðtala: ljósmynd, dökkblár litahalli og hljóðbylgjur. Verkhlutinn er hluti af þessu skilli og krefst ekki annars skills. Sérstakar óskir notanda ganga framar sjálfgefnum vinnureglum.
 - Sjálfgefin textun klippa er **„veed-texti“**: lestu [orðbundnu textunarleiðbeiningarnar](references/veed-texti.md) — Poppins ExtraBold, grátt → hvítt eftir því sem orðin heyrast. Roboto-textun er aðeins notuð þegar notandi biður sérstaklega um hana.
 - Fyrir myndir eða vefi skaltu lesa viðeigandi kafla í [miðlaleiðbeiningunum](references/media.md).
 - Fyrir samfélagsmiðlamyndir skaltu fyrst lesa [mynstrin](references/patterns.md): sjö uppsetningar sem flokkurinn notar í raun (fullyrðing, ljósmynd með fyrirsögn, fjölmiðlaframkoma, viðburður, tilvitnun, tölur, skýring), með mælingum og sameiginlegum hlutum.
 - Fyrir auglýsingar, samfélagsmiðlamyndir og önnur spjöld með texta skaltu lesa [umbrotsleiðbeiningarnar](references/layout.md): stigveldi, flokkun með bilum, staðsetningu og yfirferð. Þær eru sjálfgefin byrjun, ekki skylda; þú mátt spyrja notandann eða skila tveimur útfærslum þegar uppsetningin er ekki augljós.
 - Nákvæm stílgildi eru í [assets/tokens.json](assets/tokens.json). Vefstílar og staðbundnar leturvísanir eru í [assets/brand.css](assets/brand.css).
 - Retro variant (opt-in, English reference): only when the user asks for "retro Miðflokkurinn", "horsing around", "the dithered horse" or "the Hleri look", read [horsing-around.md](references/horsing-around.md). The kit is in assets/horsing-around/.
-- Veldu raunverulegt merki úr [eignayfirlitinu](references/assets.md). Allar eignir eru innifaldar í skillinum; ekki byggja á því að upprunamappan sé áfram á sama stað.
+- Þegar beðið er um flokksmerki skaltu velja raunverulegt merki úr [eignayfirlitinu](references/assets.md). Allar eignir eru innifaldar í skillinum; ekki byggja á því að upprunamappan sé áfram á sama stað.
 
 ## Kjarni ásýndarinnar
 
@@ -57,7 +57,7 @@ Roboto er staðfest aðalletur núverandi vefs: Black/900 í aðalfyrirsögn, Bo
 
 ## Beiting
 
-- Haltu umbeðnu innihaldi, sniði og umfangi. Ásýndin bætir ekki sjálfkrafa við slagorðum, nafnaborðum eða pólitískum skilaboðum sem notandinn bað ekki um. Fyrir samfélagsmiðlaklippur og ræðubrot gilda sjálfgefnar óskir eiganda um lítið upprunalegt merki og textun tals samkvæmt myndbandsleiðbeiningunum; fyrir aðra miðla bætast merki ekki sjálfkrafa við.
+- Haltu umbeðnu innihaldi, sniði og umfangi. Ásýndin bætir ekki sjálfkrafa við slagorðum, nafnaborðum eða pólitískum skilaboðum sem notandinn bað ekki um. Engin flokksmerki bætast við nema notandinn biðji um þau; þetta á líka við hestinn, xM og merki í uppsetningarmynstrum. Beiðni um að nota skillið eða ásýnd flokksins ein og sér er ekki beiðni um merki. Fyrir samfélagsmiðlaklippur og ræðubrot gildir sjálfgefin textun tals samkvæmt myndbandsleiðbeiningunum.
 - Notaðu upprunaleg SVG eða PNG merki. Varðveittu hlutföll og liti. Ekki endurteikna hestinn, búa til xM með venjulegu letri eða láta myndlíkön endurgera merkin.
 - Notaðu raunverulegar leturskrár og staðfestu íslensku stafina, þar á meðal Þ, þ, Ð, ð, Æ, æ, Ö og ö. Ekki herma eftir Blacker með Georgia eða Roboto með Arial og kalla það fulla samræmingu.
 - Skjöl sem birtast inni í mynd eða myndbandi halda upprunalegu letri og útliti. Merktu umgjörðina, ekki frumheimildina.

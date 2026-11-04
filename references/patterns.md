@@ -4,6 +4,8 @@
 
 Þegar beiðni fellur að einhverju mynstranna hér hefur það forgang fram yfir almennu þriggja hópa uppsetninguna í [umbrotsleiðbeiningunum](layout.md). Grunnreglurnar og yfirferðin þar gilda áfram.
 
+Við nýja framleiðslu skal sleppa öllum flokksmerkjum og undirskriftarlásum í mynstrunum nema notandinn biðji um þau, samkvæmt SKILL.md. Lýsingarnar hér varðveita útlit birta efnisins.
+
 ## Sameiginlegir hlutar
 
 | Hluti | Útfærsla | Mæling á 1080 px breidd |

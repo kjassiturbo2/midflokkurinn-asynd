@@ -22,9 +22,9 @@ Fyrir auglýsingamyndbönd með titlum, fundarupplýsingum eða grafískum spjö
 - Fyrir samfélagsmiðlagrafík skaltu velja [mynstur](patterns.md) sem passar við beiðnina áður en þú setur upp.
 - Byggðu uppsetninguna sem samsetta grafík samkvæmt framleiðslureglunni í SKILL.md. Notaðu raunverulegar Roboto-skrár fyrir fyrirsagnir, nöfn og tölur og Blacker Pro Display Condensed Regular fyrir stuðningstexta: dagsetningar, tíma og stað, tilvitnanir, lýsingar og stakar setningar. Þetta er hlutverkaskipting birts efnis flokksins. Blacker er aldrei sett í hástöfum.
 - Hladdu letrinu áður en þú mælir texta og flytur út. Staðfestu að engin sjálfvirk staðgengilsletur séu notuð. Í SVG þarf að tryggja að letrið fylgi eða umbreyta rétt settum texta í ferla fyrir færanlegan útflutning; geymdu einnig frumgerð með breytanlegum texta.
-- Settu viðeigandi upprunalegt SVG/PNG merki inn sem eign. Fyrir staðbundinn viðburð skaltu finna sveitarfélagsmerkið í eignayfirlitinu. Ef rétta eign vantar skaltu ekki teikna staðgengil.
+- Þegar beðið er um flokksmerki skaltu setja viðeigandi upprunalegt SVG/PNG merki inn sem eign. Fyrir staðbundinn viðburð skaltu finna sveitarfélagsmerkið í eignayfirlitinu. Ef rétta eign vantar skaltu ekki teikna staðgengil.
 - Ljósmynd er sérstakt lag; má skera hana, skala og setja litaðan flöt yfir til að bæta læsileika. Ekki láta myndlíkan endurgera ljósmynd, andlit eða kennileiti sem hluta af auglýsingunni.
 - Aðlagaðu hlutföll að birtingu. 9:16, 3:4 og 1:1 eru ólíkar uppsetningar, ekki eingöngu sjálfvirkur útskurður úr einni mynd.
 - Opinberir bakgrunnar og samfélagsmiðlaeignir eru í assets/backgrounds og assets/social. Þeir eru valkostir, ekki skylduuppsetning.
 
-Dæmi: „Gerðu auglýsingu fyrir bæjarmálafund í Kópavogi“ á að leiða til samsetningar með réttum merkjaskrám, raunverulegu letri og staðfestum fundarupplýsingum. Röng leið er að biðja myndlíkan um blátt og gyllt fundarplakat með M-merki og tilbúnu útsýni yfir bæinn — jafnvel þótt síðan sé settur réttur texti ofan á myndina.
+Dæmi: „Gerðu auglýsingu fyrir bæjarmálafund í Kópavogi“ á að leiða til samsetningar með raunverulegu letri og staðfestum fundarupplýsingum, og réttum merkjaskrám ef beðið er um merki. Röng leið er að biðja myndlíkan um blátt og gyllt fundarplakat með M-merki og tilbúnu útsýni yfir bæinn — jafnvel þótt síðan sé settur réttur texti ofan á myndina.
