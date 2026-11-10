@@ -27,7 +27,7 @@ Skillinn er hugsaður fyrir vinnu í forriti á tölvu notandans (t.d. Claude De
 ## Veldu réttan grunn
 
 - Lestu [ásýndarreglurnar](references/identity.md) áður en þú hannar. Þar eru opinberar litareglur aðgreindar frá athugunum á vefnum og tillögum að útfærslu.
-- Fyrir klippingu myndbanda og ræðubrota skaltu lesa [myndbandsverkhlutann](references/video.md): efnisval og röð, þétting tals, skurður, íslensk textun, heimildarinnskot, samstilling og lokayfirferð. Þar er líka sjálfgefið Story-snið útvarpsviðtala: ljósmynd, dökkblár litahalli og hljóðbylgjur. Verkhlutinn er hluti af þessu skilli og krefst ekki annars skills. Sérstakar óskir notanda ganga framar sjálfgefnum vinnureglum.
+- Fyrir klippingu myndbanda og ræðubrota skaltu lesa [myndbandsverkhlutann](references/video.md): efnisval og röð, þétting tals, skurður, íslensk textun, heimildarinnskot, samstilling og lokayfirferð. Þar er líka [Story-snið útvarpsviðtala](references/video.md#útvarpsviðtöl-í-story-ljósmynd-hljóðbylgja-og-titill) með ljósmynd, dökkbláum litahalla, hljóðbylgju, skjátexta og titli. Verkhlutinn er hluti af þessu skilli og krefst ekki annars skills. Sérstakar óskir notanda ganga framar sjálfgefnum vinnureglum.
 - Sjálfgefin textun klippa er **„veed-texti“**: lestu [orðbundnu textunarleiðbeiningarnar](references/veed-texti.md) — Poppins ExtraBold, grátt → hvítt eftir því sem orðin heyrast. Roboto-textun er aðeins notuð þegar notandi biður sérstaklega um hana.
 - Fyrir myndir eða vefi skaltu lesa viðeigandi kafla í [miðlaleiðbeiningunum](references/media.md).
 - Fyrir samfélagsmiðlamyndir skaltu fyrst lesa [mynstrin](references/patterns.md): sjö uppsetningar sem flokkurinn notar í raun (fullyrðing, ljósmynd með fyrirsögn, fjölmiðlaframkoma, viðburður, tilvitnun, tölur, skýring), með mælingum og sameiginlegum hlutum.
@@ -57,7 +57,7 @@ Roboto er staðfest aðalletur núverandi vefs: Black/900 í aðalfyrirsögn, Bo
 
 ## Beiting
 
-- Haltu umbeðnu innihaldi, sniði og umfangi. Ásýndin bætir ekki sjálfkrafa við slagorðum, nafnaborðum eða pólitískum skilaboðum sem notandinn bað ekki um. Engin flokksmerki bætast við nema notandinn biðji um þau; þetta á líka við hestinn, xM og merki í uppsetningarmynstrum. Beiðni um að nota skillið eða ásýnd flokksins ein og sér er ekki beiðni um merki. Fyrir samfélagsmiðlaklippur og ræðubrot gildir sjálfgefin textun tals samkvæmt myndbandsleiðbeiningunum.
+- Haltu umbeðnu innihaldi, sniði og umfangi. Notaðu titil með nafni og lýsingu í Story-sniði útvarpsviðtala. Í öðrum sniðum skaltu aðeins bæta við nafnaborða að beiðni. Slagorð og pólitísk skilaboð fylgja beiðninni. Engin flokksmerki bætast við nema notandinn biðji um þau; þetta á líka við hestinn, xM og merki í uppsetningarmynstrum. Beiðni um að nota skillið eða ásýnd flokksins ein og sér er ekki beiðni um merki. Fyrir samfélagsmiðlaklippur og ræðubrot gildir sjálfgefin textun tals samkvæmt myndbandsleiðbeiningunum.
 - Notaðu upprunaleg SVG eða PNG merki. Varðveittu hlutföll og liti. Ekki endurteikna hestinn, búa til xM með venjulegu letri eða láta myndlíkön endurgera merkin.
 - Notaðu raunverulegar leturskrár og staðfestu íslensku stafina, þar á meðal Þ, þ, Ð, ð, Æ, æ, Ö og ö. Ekki herma eftir Blacker með Georgia eða Roboto með Arial og kalla það fulla samræmingu.
 - Skjöl sem birtast inni í mynd eða myndbandi halda upprunalegu letri og útliti. Merktu umgjörðina, ekki frumheimildina.

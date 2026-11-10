@@ -56,3 +56,7 @@ ESB-vatnsmerkið var skráð sem herferðarlag sem aðeins er notað þegar beð
 Eigandi óskaði þess að engin flokksmerki fylgdu sjálfkrafa, þar á meðal hesturinn og xM. Þessi regla leysir af hólmi fyrri sjálfgefna notkun merkis í ræðubrotum og gildir líka þegar uppsetningarmynstur sýnir merki. Þegar merki er sérstaklega óskað í klippu er hesturinn sjálfgefinn fremur en xM.
 
 Eigandi samþykkti útlit Nönnu-klippunnar sem sjálfgefið Story-snið útvarpsviðtala: ljósmynd í góðri upplausn, dökkblár litahalli, gylltar hljóðbylgjur og veed-texti. Leiðbeiningarnar og aðlögunarhæf upphafsgildi eru í [video.md](video.md). Mynd og upptaka úr verkefninu eru ekki eignir skillsins.
+
+## Uppsetning útvarpsklippa í Story — 10. nóvember 2026
+
+Eigandi staðfesti lokaútgáfu Sigríðar Andersen á Rás 2 sem viðmið fyrir hljóðbylgju, skjátexta og titil. [Myndbandsleiðbeiningarnar](video.md) geyma röð laga, letur og aðlögunarhæf upphafsgildi.
