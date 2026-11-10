@@ -6,7 +6,7 @@ Framleiðslureglan í SKILL.md gildir um alla miðla hér að neðan. Að öðru
 
 Fyrir klippingu og framleiðslu myndbanda skaltu lesa [myndbandsverkhlutann](video.md). Þar eru sjálfgefnar óskir um ræðubrot, efnisval, textun, innskot og yfirferð á einum stað.
 
-Fyrir auglýsingamyndbönd með titlum, fundarupplýsingum eða grafískum spjöldum ræður umbeðið innihald uppsetningunni. Settu texta og merki saman úr raunverulegum eignum samkvæmt SKILL.md. Sjálfgefið látlaust útlit ræðubrota er ekki bann við umbeðnum auglýsingatexta. Notaðu Roboto Bold/Black fyrir stuttar fyrirsagnir, Nótt sem grunn og Sól fyrir áherslur þegar það á við.
+Fyrir auglýsingamyndbönd ræður umbeðið innihald uppsetningunni. Fylgdu [reglunum um viðbætur í myndbandi](video.md#það-sem-má-bæta-við-myndband), líka þegar notuð eru titilspjöld eða mynstur úr kyrrmyndum. Notaðu Roboto Bold/Black fyrir stuttar fyrirsagnir og veldu liti úr ásýndinni fyrir umbeðna grafík.
 
 ## Vefir
 

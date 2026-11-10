@@ -36,7 +36,7 @@ Veldu skýrt upphaf, þéttu hik og langar þagnir og textaðu á íslensku.
 Varðveittu samhengi og mikilvæga fyrirvara.
 ```
 
-Sjálfgefið fær stutt ræðubrot lóðrétt 9:16 snið, hóflegan skurð, lítið flokksmerki og hvítan íslenskan skjátexta með svörtum útlínum. Þú getur beðið um annað. Ef skjal á að birtast með talinu skaltu láta það fylgja og segja hvaða atriði á að sýna.
+Sjálfgefið fær stutt ræðubrot lóðrétt 9:16 snið, hóflegan skurð og íslenska textun þar sem orðin lýsast upp í takt við talið. Hestmerki, gyllt strik og annað skraut bætast aðeins við að beiðni. Ef titill á að birtast geturðu gefið hann upp í beiðninni. Ef skjal á að birtast með talinu skaltu láta það fylgja og segja hvaða atriði á að sýna.
 
 ### Auglýsing fyrir fund
 
